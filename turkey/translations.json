@@ -1,0 +1,14 @@
+{
+    "self": {
+        "main": "Self",
+        "submenutitle": "Self Options"
+	"boolinvincible": "invincible",
+	"boolwanted": "Never wanted",
+	"boolinvisible": "Invisible",
+	"boolneverfall": "Never Fall",
+	"boolforcefield": "Forcefield"
+    },
+    "vehicle": {
+        "main": "Vehicle"
+    }
+}
