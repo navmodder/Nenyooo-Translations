@@ -7,6 +7,10 @@
     "boolinvisible": "невидимый",
     "boolneverfall": "Никогда не падай",
     "boolforcefield": "силовое поле"
+     "boolsuperrun": "Super Run",
+	"boolsuperjump": "Super Jump",
+	"boolwalkunderwater": "Walk Underwater",
+	"boolnoclip": "No Clip"
     },
     "vehicle": {
         "main": "транспортное средство"
