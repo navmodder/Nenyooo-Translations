@@ -6,7 +6,11 @@
     "boolwanted": "Pas d'étoiles",
     "boolinvisible": "Invisible",
     "boolneverfall": "Ne jamais tomber",
-    "boolforcefield": "Champ de force"
+    "boolforcefield": "Champ de force",
+    "boolsuperrun": "Super Run",
+	"boolsuperjump": "Super Jump",
+	"boolwalkunderwater": "Walk Underwater",
+	"boolnoclip": "No Clip"
     },
     "vehicle": {
         "main": "Véhicule"
