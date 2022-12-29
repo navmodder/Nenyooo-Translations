@@ -7,6 +7,10 @@
 	"boolinvisible": "无形的",
 	"boolneverfall": "永不坠落",
 	"boolforcefield": "力场"
+	"boolsuperrun": "Super Run",
+	"boolsuperjump": "Super Jump",
+	"boolwalkunderwater": "Walk Underwater",
+	"boolnoclip": "No Clip"
     },
     "vehicle": {
         "main": "车辆"
