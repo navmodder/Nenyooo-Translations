@@ -1,14 +1,14 @@
 {
     "self": {
-    "main": "Selbst",
-    "submenutitle": "Charakter Optionen",
-	"boolinvincible": "unbesiegbar",
-	"boolwanted": "Keine Sterne",
-	"boolinvisible": "Unsichbar",
-	"boolneverfall": "Niemals Fallen",
-	"boolforcefield": "Kraftfeld"
+    "main": "soi",
+    "submenutitle": "options de caractère",
+    "boolinvincible": "invincible",
+    "boolwanted": "pas d'étoiles",
+    "boolinvisible": "invisible",
+    "boolneverfall": "Ne jamais tomber",
+    "boolforcefield": "champ de force"
     },
     "vehicle": {
-        "main": "Fahrzeaug"
+        "main": "véhicule"
     }
 }
