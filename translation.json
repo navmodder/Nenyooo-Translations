@@ -1,0 +1,10 @@
+{
+    "self": {
+        "main": "Self",
+        "submenutitle": "Self Options"
+		"invincible": "invincible",
+    },
+    "vehicle": {
+        "main": "Vehicle"
+    }
+}
