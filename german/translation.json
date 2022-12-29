@@ -6,7 +6,11 @@
 	"boolwanted": "Keine Sterne",
 	"boolinvisible": "Unsichbar",
 	"boolneverfall": "Niemals Fallen",
-	"boolforcefield": "Kraftfeld"
+	"boolforcefield": "Kraftfeld",
+	 "boolsuperrun": "Super Run",
+	"boolsuperjump": "Super Jump",
+	"boolwalkunderwater": "Walk Underwater",
+	"boolnoclip": "No Clip"
     },
     "vehicle": {
         "main": "Fahrzeug"
