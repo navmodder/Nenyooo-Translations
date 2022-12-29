@@ -6,11 +6,11 @@
     "boolwanted": "нет звезд",
     "boolinvisible": "невидимый",
     "boolneverfall": "Никогда не падай",
-    "boolforcefield": "силовое поле"
-     "boolsuperrun": "Super Run",
-	"boolsuperjump": "Super Jump",
-	"boolwalkunderwater": "Walk Underwater",
-	"boolnoclip": "No Clip"
+    "boolforcefield": "силовое поле",
+    "boolsuperrun": "супер бег",
+    "boolsuperjump": "супер прыжок",
+    "boolwalkunderwater": "Прогулка под водой",
+    "boolnoclip": "Без обрезки"
     },
     "vehicle": {
         "main": "транспортное средство"
