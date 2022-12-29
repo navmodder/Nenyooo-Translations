@@ -6,11 +6,11 @@
 	"boolwanted": "从来不想",
 	"boolinvisible": "无形的",
 	"boolneverfall": "永不坠落",
-	"boolforcefield": "力场",
-	"boolsuperrun": "Super Run",
-	"boolsuperjump": "Super Jump",
-	"boolwalkunderwater": "Walk Underwater",
-	"boolnoclip": "No Clip"
+	"boolforcefield": "力场"
+	"boolsuperrun": "超跑",
+	"boolsuperjump": "超级跳跃",
+	"boolwalkunderwater": "水下行走",
+	"boolnoclip": "没有剪辑"
     },
     "vehicle": {
         "main": "车辆"
