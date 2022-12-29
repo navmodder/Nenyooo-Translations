@@ -1,14 +1,14 @@
 {
     "self": {
-    "main": "soi",
-    "submenutitle": "options de caractère",
-    "boolinvincible": "invincible",
-    "boolwanted": "pas d'étoiles",
-    "boolinvisible": "invisible",
+    "main": "Soi",
+    "submenutitle": "Options de caractère",
+    "boolinvincible": "Invincible",
+    "boolwanted": "Pas d'étoiles",
+    "boolinvisible": "Invisible",
     "boolneverfall": "Ne jamais tomber",
-    "boolforcefield": "champ de force"
+    "boolforcefield": "Champ de force"
     },
     "vehicle": {
-        "main": "véhicule"
+        "main": "Véhicule"
     }
 }
