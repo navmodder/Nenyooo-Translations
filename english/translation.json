@@ -1,7 +1,7 @@
 {
     "self": {
         "main": "Self",
-        "submenutitle": "Self Options"
+        "submenutitle": "Self Options",
 	"boolinvincible": "invincible",
 	"boolwanted": "Never wanted",
 	"boolinvisible": "Invisible",
