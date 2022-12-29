@@ -1,14 +1,14 @@
 {
     "self": {
-        "main": "Self",
-        "submenutitle": "Self Options"
-	"boolinvincible": "invincible",
-	"boolwanted": "Never wanted",
-	"boolinvisible": "Invisible",
-	"boolneverfall": "Never Fall",
-	"boolforcefield": "Forcefield"
+        "main": "自己",
+        "submenutitle": "自我选择",
+	"boolinvincible": "无敌的",
+	"boolwanted": "从来不想",
+	"boolinvisible": "无形的",
+	"boolneverfall": "永不坠落",
+	"boolforcefield": "力场"
     },
     "vehicle": {
-        "main": "Vehicle"
+        "main": "车辆"
     }
 }
