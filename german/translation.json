@@ -1,0 +1,14 @@
+{
+    "self": {
+    "main": "Selbst",
+    "submenutitle": "Charakter Optionen",
+	"boolinvincible": "unbesiegbar",
+	"boolwanted": "Keine Sterne",
+	"boolinvisible": "Unsichbar",
+	"boolneverfall": "Niemals Fallen",
+	"boolforcefield": "Kraftfeld"
+    },
+    "vehicle": {
+        "main": "Fahrzeug"
+    }
+}
