@@ -7,10 +7,10 @@
     "boolinvisible": "Invisible",
     "boolneverfall": "Ne jamais tomber",
     "boolforcefield": "Champ de force",
-    "boolsuperrun": "Super Run",
-	"boolsuperjump": "Super Jump",
-	"boolwalkunderwater": "Walk Underwater",
-	"boolnoclip": "No Clip"
+    "boolsuperrun": "Super course",
+	"boolsuperjump": "Super saut",
+	"boolwalkunderwater": "Marcher sous l'eau",
+	"boolnoclip": "Pas de collision"
     },
     "vehicle": {
         "main": "Véhicule"
