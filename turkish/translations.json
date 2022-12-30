@@ -14,6 +14,33 @@
     },
     "vehicle": {
         "main": "Araç"
+		"submenutitle": "Araç Seçenekleri",
+		 "spawncar": {
+			 "main": "Araç Oluşturma Yeri",
+			"submenutitle": "Araç Doğuşu"
+		 },	
+		 "multiplier": {
+			 "main": "çarpan",
+			"submenutitle": "çarpan",		
+			"acceleration": "Hızlanma",
+			"breaks": "Geri ve Fren"
+		 },
+		 "invincible_catagory": "Yenilmezlik",
+		 "autofixer_catagory": "Otomatik Düzeltici",		
+		 "horn_catagory": "Boynuz ve Yükseltme",
+		 "acrobatics_catagory": "Akrobasi",		
+		 "end_catagory": "Son",
+		 "status": "Durum",
+		 "type": "Tip",
+		 "int_hornboostspeed": "Hız",
+		 "bool_flyingmode": "Uçuş Modu",
+		 "bool_drift": "Sürüklenme Modu",	
+		 "bool_seatnbelt": "Emniyet kemeri",	
+		 "bool_towcar": "çekici",	
+		 "bool_rainbow": "gökkuşağı araba",	
+		 "fuc_dirt": "Kir Seviyesi",	
+		 "fuc_fixcar": "Arabayı Onar",		
+		 "fuc_upgradecar": "Yükseltme Arabası"
     },
 	"weapons": {
         "main": "Silahlar",
@@ -28,5 +55,26 @@
 		"boolairstike_gun": "hava tabancası",
 		"explosive_ammo_catagory": "Patlayıcı Cephane",
 		"projectile_ammo_catagory": "Mermi Tabancası"
+   },
+	"teleports": {
+        "main": "Teleport",
+		"submenutitle": "Teleports",
+		"breakerCustom": "Custom",
+		"outdoor": {
+        "main": "Outdoor",
+		"submenutitle": "Dış mekan"
+		},
+    	"indoor": {
+        "main": "Indoor",
+		"submenutitle": "Kapalı"
+		},
+    	"underwater": {
+        "main": "Underwater",
+		"submenutitle": "Su altı"
+		},
+    	"sky": {
+        "main": "Sky",
+		"submenutitle": "Gökyüzü"
+		}
     }
 }
