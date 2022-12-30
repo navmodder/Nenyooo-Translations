@@ -14,6 +14,33 @@
     },
     "vehicle": {
         "main": "Fahrzeug"
+		"submenutitle": "Fahrzeug Optionen",
+		 "spawncar": {
+			 "main": "Farhzeug Spawnen",
+			"submenutitle": "Spawn das Fahrzeug"
+		 },	
+		 "multiplier": {
+			 "main": "Multiplikation",
+			"submenutitle": "Multiplikator",		
+			"acceleration": "Geschwindigkeit",
+			"breaks": "Rückwärts und Bremsen"
+		 },
+		 "invincible_catagory": "Unbesiegbarkeit",
+		 "autofixer_catagory": "Auto Fixer",		
+		 "horn_catagory": "Hupen & Boosten",
+		 "acrobatics_catagory": "Akrobatik",		
+		 "end_catagory": "Ende",
+		 "status": "Status",
+		 "type": "Typ",
+		 "int_hornboostspeed": "Geschwindigkeit",
+		 "bool_flyingmode": "Fliegen",
+		 "bool_drift": "Drift Mode",	
+		 "bool_seatnbelt": "Sicherheitsgurt",	
+		 "bool_towcar": "Abschleppwagen",	
+		 "bool_rainbow": "Rainbow Auto",	
+		 "fuc_dirt": "Schmutzlevel",	
+		 "fuc_fixcar": "Auto Fix",		
+		 "fuc_upgradecar": "Auto Upgrade"
     },
     "weapons": {
         "main": "Waffen",
