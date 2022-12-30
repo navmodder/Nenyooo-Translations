@@ -1,0 +1,18 @@
+{
+    "self": {
+    "main": "Навіть",
+    "submenutitle": "варіанти персонажів",
+	"boolinvincible": "непереможний",
+	"boolwanted": "немає зірок",
+	"boolinvisible": "Невидимий",
+	"boolneverfall": "Ніколи не падайте",
+	"boolforcefield": "Силове поле",
+	 "boolsuperrun": "Супер швидко",
+	"boolsuperjump": "Чудовий стрибок",
+	"boolwalkunderwater": "Біг під водою",
+	"boolnoclip": "Немає кліпу"
+    },
+    "vehicle": {
+        "main": "транспортний засіб"
+    }
+}
