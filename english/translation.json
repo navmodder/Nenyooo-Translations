@@ -26,7 +26,7 @@
     	"booldelete_gun":"Delete Gun",
     	"boolteleport_gun":"Teleport Gun",
     	"boolairstike_gun":"Airstike Gun",
-	"booldriveitgun":"Drive It Gun",
+	"booldriveit_gun":"Drive It Gun",
 	"boolforce_gun":"Force Gun",
     	"explosive_ammo_catagory":"Explosive Ammo",
     	"projectile_ammo_catagory":"Projectile Gun"
