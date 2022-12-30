@@ -1,32 +1,32 @@
 {
     "self": {
-        "main": "Self",
-        "submenutitle": "Self Options",
-	"boolinvincible": "invincible",
-	"boolwanted": "Never wanted",
-	"boolinvisible": "Invisible",
-	"boolneverfall": "Never Fall",
-	"boolforcefield": "Forcefield",
-	"boolsuperrun": "Super Run",
-	"boolsuperjump": "Super Jump",
-	"boolwalkunderwater": "Walk Underwater",
+        "main": "öz",
+        "submenutitle": "Kişisel Seçenekler",
+	"boolinvincible": "yenilmez",
+	"boolwanted": "hiç istemedim",
+	"boolinvisible": "Görünmez",
+	"boolneverfall": "Asla düşme",
+	"boolforcefield": "Güç alanı",
+	"boolsuperrun": "Süper Koşu",
+	"boolsuperjump": "Süper Zıplama",
+	"boolwalkunderwater": "Su Altında Yürümek",
 	"boolnoclip": "No Clip"
     },
     "vehicle": {
-        "main": "Vehicle"
+        "main": "Araç"
     },
 	"weapons": {
-        "main": "Weapons",
-		"submenutitle": "Weapons",
-		"trigger_getweapons": "Get All Weapons",
-		"boolinf_ammo": "Inf Ammo",
-		"boolno_reload": "No Reload",
-		"booltrigger_bot":"Trigger Bot",
-		"boolaim_bot":"Aimbot",
-		"booldelete_gun":"Delete Gun",
-		"boolteleport_gun":"Teleport Gun",
-		"boolairstike_gun":"Airstike Gun",
-		"explosive_ammo_catagory":"Explosive Ammo",
-		"projectile_ammo_catagory":"Projectile Gun"
+        "main": "Silahlar",
+		"submenutitle": "Silahlar",
+		"trigger_getweapons": "Tüm Silahları Alın",
+		"boolinf_ammo": "cephane",
+		"boolno_reload": "Yeniden Yükleme Yok",
+		"booltrigger_bot": "Tetik bot",
+		"boolaim_bot": "Aimbot",
+		"booldelete_gun": "Tabancayı Sil",
+		"boolteleport_gun": "Işınlanma Silahı",
+		"boolairstike_gun": "hava tabancası",
+		"explosive_ammo_catagory": "Patlayıcı Cephane",
+		"projectile_ammo_catagory": "Mermi Tabancası"
     }
 }
