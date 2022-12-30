@@ -1,82 +1,82 @@
 {
 	"self": {
-		"main": "Self",
-		"submenutitle": "Self Options",
-		"boolinvincible": "invincible",
-		"boolwanted": "Never wanted",
-		"boolinvisible": "Invisible",
-		"boolneverfall": "Never Fall",
-		"boolforcefield": "Forcefield",
-		"boolsuperrun": "Super Run",
-		"boolsuperjump": "Super Jump",
-		"boolwalkunderwater": "Walk Underwater",
-		"boolnoclip": "No Clip"
+		"main": "Персонаж",
+		"submenutitle": "Параметры персонажа",
+		"boolinvincible": "Неуязвимость",
+		"boolwanted": "Отключить розыск",
+		"boolinvisible": "Невидимость",
+		"boolneverfall": "Отключить падение",
+		"boolforcefield": "Силовое поле",
+		"boolsuperrun": "Супер бег",
+		"boolsuperjump": "Супер прыжок",
+		"boolwalkunderwater": "Подводная ходьба",
+		"boolnoclip": "Ноуклип"
 	},
 	"vehicle": {
-		"main": "Vehicle",
-		"submenutitle": "Vehicle Options",
+		"main": "Транспорт",
+		"submenutitle": "Параметры транспорта",
 		"spawncar": {
-			"main": "Vehicle Spawner",
-			"submenutitle": "Vehicle Spawn"
+			"main": "Спавнер трансопрта",
+			"submenutitle": "Спавн транспорта"
 		},
 		"multiplier": {
-			"main": "Multiplier",
-			"submenutitle": "Multiplier",
-			"acceleration": "Acceleration",
-			"breaks": "Reverse'n Break"
+			"main": "Множители",
+			"submenutitle": "Множители",
+			"acceleration": "Ускорение",
+			"breaks": "Тормоз и задний ход"
 		},
-		"invincible_catagory": "Invincibility",
-		"autofixer_catagory": "Auto Fixer",
-		"horn_catagory": "Horn & Boost",
-		"acrobatics_catagory": "Acrobatics",
-		"end_catagory": "End",
-		"status": "Status",
-		"type": "Type",
-		"int_hornboostspeed": "Speed",
-		"bool_flyingmode": "Flying Mode",
-		"bool_drift": "Drift Mode",
-		"bool_seatnbelt": "Seat Belt",
-		"bool_towcar": "Tow Car",
-		"bool_rainbow": "Rainbow Car",
-		"fuc_dirt": "Dirt Level",
-		"fuc_fixcar": "Fix Car",
-		"fuc_upgradecar": "Upgrade Car"
+		"invincible_catagory": "Неуязвимость",
+		"autofixer_catagory": "Авто-починка",
+		"horn_catagory": "Посигналь и ускорься",
+		"acrobatics_catagory": "Акробатика",
+		"end_catagory": "Конец",
+		"status": "Состояние",
+		"type": "Тип",
+		"int_hornboostspeed": "ПиУ скорость",
+		"bool_flyingmode": "Режим полёта",
+		"bool_drift": "Дрифт-режим",
+		"bool_seatnbelt": "Пристегнуть ремни",
+		"bool_towcar": "Тянуть машину",
+		"bool_rainbow": "Радужная окраска",
+		"fuc_dirt": "Уровень зацепа",
+		"fuc_fixcar": "Починить машину",
+		"fuc_upgradecar": "Прокачать машину"
 	},
 	"weapons": {
-		"main": "Weapons",
-		"submenutitle": "Weapons",
-		"trigger_getweapons": "Get All Weapons",
-		"boolinf_ammo": "Inf Ammo",
-		"boolno_reload": "No Reload",
-		"booltrigger_bot": "Trigger Bot",
-		"boolaim_bot": "Aimbot",
-		"booldelete_gun": "Delete Gun",
-		"boolteleport_gun": "Teleport Gun",
-		"boolairstike_gun": "Airstike Gun",
-		"booldriveit_gun": "Drive It Gun",
-		"boolforce_gun": "Force Gun",
-		"explosive_ammo_catagory": "Explosive Ammo",
-		"projectile_ammo_catagory": "Projectile Gun"
+		"main": "Оружие",
+		"submenutitle": "Оружие",
+		"trigger_getweapons": "Получить всё оружие",
+		"boolinf_ammo": "Бесконечные патроны",
+		"boolno_reload": "Отключить перезарядку",
+		"booltrigger_bot": "Сагрить ботов",
+		"boolaim_bot": "Автоприцеливание",
+		"booldelete_gun": "Пушка-удалитель",
+		"boolteleport_gun": "Пушка-телепортатор",
+		"boolairstike_gun": "Пушка авиаудара",
+		"booldriveit_gun": "Пушка управления машиной",
+		"boolforce_gun": "Пушка Силы",
+		"explosive_ammo_catagory": "Разрывные снаряды",
+		"projectile_ammo_catagory": "Большие снаряды"
 	},
 	"teleports": {
-		"main": "Teleport",
-		"submenutitle": "Teleports",
-		"breakerCustom": "Custom",
+		"main": "Телепорт",
+		"submenutitle": "Локации",
+		"breakerCustom": "Свои",
 		"outdoor": {
-			"main": "Outdoor",
-			"submenutitle": "Outdoor"
+			"main": "Снаружи",
+			"submenutitle": "Снаружи"
 		},
 		"indoor": {
-			"main": "Indoor",
-			"submenutitle": "Indoor"
+			"main": "Внутри",
+			"submenutitle": "Внутри"
 		},
 		"underwater": {
-			"main": "Underwater",
-			"submenutitle": "Underwater"
+			"main": "Под воду",
+			"submenutitle": "Под воду"
 		},
 		"sky": {
-			"main": "Sky",
-			"submenutitle": "Sky"
+			"main": "На небо",
+			"submenutitle": "На небо"
 		}
 	}
 }
