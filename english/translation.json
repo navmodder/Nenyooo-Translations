@@ -7,48 +7,75 @@
 	"boolinvisible": "Invisible",
 	"boolneverfall": "Never Fall",
 	"boolforcefield": "Forcefield",
-        "boolsuperrun": "Super Run",
+	"boolsuperrun": "Super Run",
 	"boolsuperjump": "Super Jump",
 	"boolwalkunderwater": "Walk Underwater",
 	"boolnoclip": "No Clip"
     },
     "vehicle": {
-        "main": "Vehicle"
+        "main": "Vehicle",
+		"submenutitle": "Vehicle Options",
+		 "spawncar": {
+			 "main": "Vehicle Spawner",
+			"submenutitle": "Vehicle Spawn"
+		 },	
+		 "multiplier": {
+			 "main": "Multiplier",
+			"submenutitle": "Multiplier",		
+			"acceleration": "Acceleration",
+			"breaks": "Reverse'n Break"
+		 },
+		 "invincible_catagory": "Invincibility",
+		 "autofixer_catagory": "Auto Fixer",		
+		 "horn_catagory": "Horn & Boost",
+		 "acrobatics_catagory": "Acrobatics",		
+		 "end_catagory": "<End>",
+		 "status": "Status",
+		 "type": "Type",
+		 "int_hornboostspeed":"Speed",
+		 "bool_flyingmode": "Flying Mode",	
+		 "bool_drift": "Drift Mode",	
+		 "bool_seatnbelt": "Seat Belt",	
+		 "bool_towcar": "Tow Car",	
+		 "bool_rainbow": "Rainbow Car",	
+		 "fuc_rainbow": "Dirt Level",	
+		 "fuc_fixcar": "Fix Car",		
+		 "fuc_upgradecar": "Upgrade Car"
     },
-    "weapons": {
+	"weapons": {
         "main": "Weapons",
-    	"submenutitle": "Weapons",
-    	"trigger_getweapons": "Get All Weapons",
-    	"boolinf_ammo": "Inf Ammo",
-    	"boolno_reload": "No Reload",
-    	"booltrigger_bot":"Trigger Bot",
-    	"boolaim_bot":"Aimbot",
-    	"booldelete_gun":"Delete Gun",
-    	"boolteleport_gun":"Teleport Gun",
-    	"boolairstike_gun":"Airstike Gun",
-	"booldriveit_gun":"Drive It Gun",
-	"boolforce_gun":"Force Gun",
-    	"explosive_ammo_catagory":"Explosive Ammo",
-    	"projectile_ammo_catagory":"Projectile Gun"
+		"submenutitle": "Weapons",
+		"trigger_getweapons": "Get All Weapons",
+		"boolinf_ammo": "Inf Ammo",
+		"boolno_reload": "No Reload",
+		"booltrigger_bot":"Trigger Bot",
+		"boolaim_bot":"Aimbot",
+		"booldelete_gun":"Delete Gun",
+		"boolteleport_gun":"Teleport Gun",
+		"boolairstike_gun":"Airstike Gun",
+		"booldriveit_gun":"Drive It Gun",
+		"boolforce_gun":"Force Gun",
+		"explosive_ammo_catagory":"Explosive Ammo",
+		"projectile_ammo_catagory":"Projectile Gun"
     },
-    "teleports": {
-                "main": "Teleport",
+	"teleports": {
+        "main": "Teleport",
 		"submenutitle": "Teleports",
 		"breakerCustom": "Custom",
-	"outdoor": {
-                "main": "Outdoor",
+		"outdoor": {
+        "main": "Outdoor",
 		"submenutitle": "Outdoor"
 		},
     	"indoor": {
-                "main": "Indoor",
+        "main": "Indoor",
 		"submenutitle": "Indoor"
 		},
     	"underwater": {
-                "main": "Underwater",
+        "main": "Underwater",
 		"submenutitle": "Underwater"
 		},
     	"sky": {
-                "main": "Sky",
+        "main": "Sky",
 		"submenutitle": "Sky"
 		}
     }
