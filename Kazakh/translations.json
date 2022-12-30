@@ -1,0 +1,16 @@
+"self": {
+        "main": "Өздігінен",
+        "submenutitle": "Өздігінен опциялар",
+	"boolinvincible": "жеңілмейтін",
+	"boolwanted": "Ешқашан қаламаған",
+	"boolinvisible": "Көзге көрінбейтін",
+	"boolneverfall": "Ешқашан құлама",
+	"boolforcefield": "Форсфилд",
+        "boolsuperrun": "Супер жүгіру",
+	"boolsuperjump": "Супер секіру",
+	"boolwalkunderwater": "Су астында серуендеу",
+	"boolnoclip": "Клип жоқ"
+    },
+    "vehicle": {
+        "main": "Көлік"
+    }
