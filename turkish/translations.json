@@ -1,0 +1,32 @@
+{
+    "self": {
+        "main": "Self",
+        "submenutitle": "Self Options",
+	"boolinvincible": "invincible",
+	"boolwanted": "Never wanted",
+	"boolinvisible": "Invisible",
+	"boolneverfall": "Never Fall",
+	"boolforcefield": "Forcefield",
+	"boolsuperrun": "Super Run",
+	"boolsuperjump": "Super Jump",
+	"boolwalkunderwater": "Walk Underwater",
+	"boolnoclip": "No Clip"
+    },
+    "vehicle": {
+        "main": "Vehicle"
+    },
+	"weapons": {
+        "main": "Weapons",
+		"submenutitle": "Weapons",
+		"trigger_getweapons": "Get All Weapons",
+		"boolinf_ammo": "Inf Ammo",
+		"boolno_reload": "No Reload",
+		"booltrigger_bot":"Trigger Bot",
+		"boolaim_bot":"Aimbot",
+		"booldelete_gun":"Delete Gun",
+		"boolteleport_gun":"Teleport Gun",
+		"boolairstike_gun":"Airstike Gun",
+		"explosive_ammo_catagory":"Explosive Ammo",
+		"projectile_ammo_catagory":"Projectile Gun"
+    }
+}
