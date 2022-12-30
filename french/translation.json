@@ -1,46 +1,46 @@
 {
     "self": {
-    "main": "Soi",
-    "submenutitle": "Options de caractère",
+    "main": "Vous*",
+    "submenutitle": "Votre personnage",
     "boolinvincible": "Invincible",
-    "boolwanted": "Pas d'étoiles",
+    "boolwanted": "La police ferme les yeux",
     "boolinvisible": "Invisible",
-    "boolneverfall": "Ne jamais tomber",
+    "boolneverfall": "Pas de physique (Ragdoll)",
     "boolforcefield": "Champ de force",
-    "boolsuperrun": "Super course",
-	"boolsuperjump": "Super saut",
+    "boolsuperrun": "Courir plus vite",
+	"boolsuperjump": "Sauter plus haut",
 	"boolwalkunderwater": "Marcher sous l'eau",
-	"boolnoclip": "Pas de collision"
+	"boolnoclip": "Pas de collision (Mode fantôme)"
     },
     "vehicle": {
-        "main": "Véhicule",
-		"submenutitle": "Options de véhicule",
+        "main": "Véhicules",
+		"submenutitle": "Options du véhicule",
 		 "spawncar": {
-			 "main": "Apparition de véhicule",
+			 "main": "Faire apparaitre une voiture",
 			"submenutitle": "Apparition de véhicules"
 		 },	
 		 "multiplier": {
 			 "main": "Multiplicateur",
 			"submenutitle": "Multiplicateur",		
 			"acceleration": "Accélération",
-			"breaks": "Reverse'n Break"
+			"breaks": "Frein + Marche arrière"
 		 },
 		 "invincible_catagory": "Invincibilité",
-		 "autofixer_catagory": "Fixateur automatique",		
-		 "horn_catagory": "Klaxon et Boost",
+		 "autofixer_catagory": "Réparation de la voiture automatique",		
+		 "horn_catagory": "Klaxonner = Boost de vitesse",
 		 "acrobatics_catagory": "Acrobaties",		
 		 "end_catagory": "Fin",
 		 "status": "Statut",
 		 "type": "Taper",
 		 "int_hornboostspeed": "Vitesse",
-		 "bool_flyingmode": "Mode vol",
-		 "bool_drift": "Mode dérive",	
-		 "bool_seatnbelt": "Ceinture de sécurité",	
+		 "bool_flyingmode": "Véhicule volant",
+		 "bool_drift": "Mode Drift",	
+		 "bool_seatnbelt": "Ne jamais tomber du véhicule",	
 		 "bool_towcar": "Voiture de remorquage",	
-		 "bool_rainbow": "Voiture arc-en-ciel",	
+		 "bool_rainbow": "Couleurs arc-en-ciel",	
 		 "fuc_dirt": "Niveau de saleté",	
-		 "fuc_fixcar": "Réparer une voiture",		
-		 "fuc_upgradecar": "Améliorez la voiture"
+		 "fuc_fixcar": "Réparer la voiture",		
+		 "fuc_upgradecar": "Améliorer la voiture"
     },
 	"weapons": {
         "main": "Weapons",
@@ -48,19 +48,19 @@
 		"trigger_getweapons": "Obtenez toutes les armes",
 		"boolinf_ammo": "Munitions infinies",
 		"boolno_reload": "Pas de rechargement",
-		"booltrigger_bot": "Trigger Bot",
-		"boolaim_bot": "Aimbot",
-		"booldelete_gun": "Supprimer le pistolet",
-		"boolteleport_gun": "Pistolet de téléportation",
-		"boolairstike_gun": "Pistolet à air comprimé",
-		"booldriveit_gun": "Conduire le pistolet",
-		"boolforce_gun": "Pistolet de force",
+		"booltrigger_bot": "Tir automatique",
+		"boolaim_bot": "Visée automatique",
+		"booldelete_gun": "Tirer = supprime l'entité",
+		"boolteleport_gun": "Tirer = Téléportation",
+		"boolairstike_gun": "Tirer = Roquettes de rpg dans leurs gueules",
+		"booldriveit_gun": "Tirer = Conduire la voiture",
+		"boolforce_gun": "Tirer = Pousse l'entité très fort",
 		"explosive_ammo_catagory": "Munitions explosives",
 		"projectile_ammo_catagory": "Pistolet à projectiles"
     },
 	"teleports": {
-        "main": "Teleport",
-		"submenutitle": "Teleports",
+        "main": "Se téléporter",
+		"submenutitle": "Se téléporter",
 		"breakerCustom": "Custom",
 		"outdoor": {
         "main": "Outdoor",
@@ -72,7 +72,7 @@
 		},
     	"underwater": {
         "main": "Underwater",
-		"submenutitle": "Sous-marine"
+		"submenutitle": "Sous l'eau"
 		},
     	"sky": {
         "main": "Sky",
