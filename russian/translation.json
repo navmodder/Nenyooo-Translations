@@ -1,82 +1,82 @@
 {
-    "self": {
-    "main": "Даже",
-    "submenutitle": "параметры персонажа",
-    "boolinvincible": "непобедимый",
-    "boolwanted": "нет звезд",
-    "boolinvisible": "невидимый",
-    "boolneverfall": "Никогда не падай",
-    "boolforcefield": "силовое поле",
-    "boolsuperrun": "супер бег",
-    "boolsuperjump": "супер прыжок",
-    "boolwalkunderwater": "Прогулка под водой",
-    "boolnoclip": "Без обрезки"
-    },
-   "vehicle": {
-        "main": "автомобиль",
-		"submenutitle": "Варианты автомобиля",
-		 "spawncar": {
-			 "main": "Спаунер транспортных средств",
-			"submenutitle": "Спаун автомобиля"
-		 },	
-		 "multiplier": {
-			 "main": "Множитель",
-			"submenutitle": "Множитель",		
+	"self": {
+		"main": "Персонаж",
+		"submenutitle": "Параметры персонажа",
+		"boolinvincible": "Неуязвимость",
+		"boolwanted": "Отключить розыск",
+		"boolinvisible": "Невидимость",
+		"boolneverfall": "Отключить падение",
+		"boolforcefield": "Силовое поле",
+		"boolsuperrun": "Супер бег",
+		"boolsuperjump": "Супер прыжок",
+		"boolwalkunderwater": "Подводная ходьба",
+		"boolnoclip": "Ноуклип"
+	},
+	"vehicle": {
+		"main": "Транспорт",
+		"submenutitle": "Параметры транспорта",
+		"spawncar": {
+			"main": "Спавнер трансопрта",
+			"submenutitle": "Спавн транспорта"
+		},
+		"multiplier": {
+			"main": "Множители",
+			"submenutitle": "Множители",
 			"acceleration": "Ускорение",
-			"breaks": "Реверс и тормоз"
-		 },
-		 "invincible_catagory": "Непобедимость",
-		 "autofixer_catagory": "Автофиксатор",		
-		 "horn_catagory": "Рог и усиление",
-		 "acrobatics_catagory": "Акробатика",		
-		 "end_catagory": "Конец",
-		 "status": "Положение дел",
-		 "type": "Тип",
-		 "int_hornboostspeed": "Скорость",
-		 "bool_flyingmode": "Режим полета",
-		 "bool_drift": "Режим дрейфа",	
-		 "bool_seatnbelt": "Режим дрейфа",	
-		 "bool_towcar": "Эвакуатор",	
-		 "bool_rainbow": "Радужный автомобиль",	
-		 "fuc_dirt": "Уровень загрязнения",	
-		 "fuc_fixcar": "Чинить машину",		
-		 "fuc_upgradecar": "Обновить автомобиль"
-    },
+			"breaks": "Тормоз и задний ход"
+		},
+		"invincible_catagory": "Неуязвимость",
+		"autofixer_catagory": "Авто-починка",
+		"horn_catagory": "Посигналь и ускорься",
+		"acrobatics_catagory": "Акробатика",
+		"end_catagory": "Конец",
+		"status": "Состояние",
+		"type": "Тип",
+		"int_hornboostspeed": "ПиУ скорость",
+		"bool_flyingmode": "Режим полёта",
+		"bool_drift": "Дрифт-режим",
+		"bool_seatnbelt": "Пристегнуть ремни",
+		"bool_towcar": "Тянуть машину",
+		"bool_rainbow": "Радужная окраска",
+		"fuc_dirt": "Уровень зацепа",
+		"fuc_fixcar": "Починить машину",
+		"fuc_upgradecar": "Прокачать машину"
+	},
 	"weapons": {
-        "main": "Оружие",
+		"main": "Оружие",
 		"submenutitle": "Оружие",
-		"trigger_getweapons": "Получить все оружие",
-		"boolinf_ammo": "Боеприпасы бесконечности",
-		"boolno_reload": "Нет перезагрузки",
-		"booltrigger_bot": "Trigger Bot",
-		"boolaim_bot": "Aimbot",
-		"booldelete_gun": "Удалить пистолет",
-		"boolteleport_gun": "Телепорт Пушка",
-		"boolairstike_gun": "Авиаударное ружье",
-		"booldriveit_gun": "Драйв это пистолет",
-		"boolforce_gun": "Силовой пистолет",
-		"explosive_ammo_catagory": "Разрывные боеприпасы",
-		"projectile_ammo_catagory": "Стрелковая пушка"
-    },
+		"trigger_getweapons": "Получить всё оружие",
+		"boolinf_ammo": "Бесконечные патроны",
+		"boolno_reload": "Отключить перезарядку",
+		"booltrigger_bot": "Сагрить ботов",
+		"boolaim_bot": "Автоприцеливание",
+		"booldelete_gun": "Пушка-удалитель",
+		"boolteleport_gun": "Пушка-телепортатор",
+		"boolairstike_gun": "Пушка авиаудара",
+		"booldriveit_gun": "Пушка управления машиной",
+		"boolforce_gun": "Пушка Силы",
+		"explosive_ammo_catagory": "Разрывные снаряды",
+		"projectile_ammo_catagory": "Большие снаряды"
+	},
 	"teleports": {
-        "main": "Teleport",
-		"submenutitle": "Teleports",
-		"breakerCustom": "Custom",
+		"main": "Телепорт",
+		"submenutitle": "Локации",
+		"breakerCustom": "Свои",
 		"outdoor": {
-        "main": "Outdoor",
-		"submenutitle": "Открытый"
+			"main": "Снаружи",
+			"submenutitle": "Снаружи"
 		},
-    	"indoor": {
-        "main": "Indoor",
-		"submenutitle": "В помещении"
+		"indoor": {
+			"main": "Внутри",
+			"submenutitle": "Внутри"
 		},
-    	"underwater": {
-        "main": "Underwater",
-		"submenutitle": "Подводный"
+		"underwater": {
+			"main": "Под воду",
+			"submenutitle": "Под воду"
 		},
-    	"sky": {
-        "main": "Sky",
-		"submenutitle": "Небо"
+		"sky": {
+			"main": "На небо",
+			"submenutitle": "На небо"
 		}
-    }
+	}
 }
