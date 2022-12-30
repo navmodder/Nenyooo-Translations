@@ -15,4 +15,18 @@
     "vehicle": {
         "main": "Vehicle"
     }
+	"weapons": {
+        "main": "Weapons",
+		"submenutitle": "Weapons",
+		"trigger_getweapons": "Get All Weapons",
+		"boolinf_ammo": "Inf Ammo",
+		"boolno_reload": "No Reload",
+		"booltrigger_bot":"Trigger Bot",
+		"boolaim_bot":"Aimbot",
+		"booldelete_gun":"Delete Gun",
+		"boolteleport_gun":"Teleport Gun",
+		"boolairstike_gun":"Airstike Gun",
+		"explosive_ammo_catagory":"Explosive Ammo",
+		"projectile_ammo_catagory":"Projectile Gun"
+    }
 }
