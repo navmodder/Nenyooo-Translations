@@ -14,5 +14,42 @@
     },
     "vehicle": {
         "main": "Fahrzeug"
+    },
+    "weapons": {
+        "main": "Waffen",
+    	"submenutitle": "Waffenspezifikation",
+    	"trigger_getweapons": "Gebe alle Waffen",
+    	"boolinf_ammo": "Unendlich Munition",
+    	"boolno_reload": "Kein Nachladen",
+    	"booltrigger_bot": "Trigger Bot",
+    	"boolaim_bot": "Aimbot",
+    	"booldelete_gun": "Waffen Löschen",
+    	"boolteleport_gun": "Teleport Waffe",
+    	"boolairstike_gun": "Airstike Waffe",
+	"booldriveit_gun": "Fahr Waffe",
+	"boolforce_gun": "Waffen Gewalt",
+    	"explosive_ammo_catagory": "Explosive Ammo",
+    	"projectile_ammo_catagory": "Projektil Pistole"
+    },
+    "teleports": {
+                "main": "Teleport",
+		"submenutitle": "Teleports",
+		"breakerCustom": "Custom",
+	"outdoor": {
+                "main": "Outdoor",
+		"submenutitle": "Draußen"
+		},
+    	"indoor": {
+                "main": "Indoor",
+		"submenutitle": "Drinne"
+		},
+    	"underwater": {
+                "main": "Underwater",
+		"submenutitle": "Unterwasser"
+		},
+    	"sky": {
+                "main": "Sky",
+		"submenutitle": "Himmel"
+		}
     }
 }
