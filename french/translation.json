@@ -13,6 +13,70 @@
 	"boolnoclip": "Pas de collision"
     },
     "vehicle": {
-        "main": "Véhicule"
+        "main": "Véhicule",
+		"submenutitle": "Options de véhicule",
+		 "spawncar": {
+			 "main": "Apparition de véhicule",
+			"submenutitle": "Apparition de véhicules"
+		 },	
+		 "multiplier": {
+			 "main": "Multiplicateur",
+			"submenutitle": "Multiplicateur",		
+			"acceleration": "Accélération",
+			"breaks": "Reverse'n Break"
+		 },
+		 "invincible_catagory": "Invincibilité",
+		 "autofixer_catagory": "Fixateur automatique",		
+		 "horn_catagory": "Klaxon et Boost",
+		 "acrobatics_catagory": "Acrobaties",		
+		 "end_catagory": "Fin",
+		 "status": "Statut",
+		 "type": "Taper",
+		 "int_hornboostspeed": "Vitesse",
+		 "bool_flyingmode": "Mode vol",
+		 "bool_drift": "Mode dérive",	
+		 "bool_seatnbelt": "Ceinture de sécurité",	
+		 "bool_towcar": "Voiture de remorquage",	
+		 "bool_rainbow": "Voiture arc-en-ciel",	
+		 "fuc_dirt": "Niveau de saleté",	
+		 "fuc_fixcar": "Réparer une voiture",		
+		 "fuc_upgradecar": "Améliorez la voiture"
+    },
+	"weapons": {
+        "main": "Weapons",
+		"submenutitle": "Armes",
+		"trigger_getweapons": "Obtenez toutes les armes",
+		"boolinf_ammo": "Munitions infinies",
+		"boolno_reload": "Pas de rechargement",
+		"booltrigger_bot": "Trigger Bot",
+		"boolaim_bot": "Aimbot",
+		"booldelete_gun": "Supprimer le pistolet",
+		"boolteleport_gun": "Pistolet de téléportation",
+		"boolairstike_gun": "Pistolet à air comprimé",
+		"booldriveit_gun": "Conduire le pistolet",
+		"boolforce_gun": "Pistolet de force",
+		"explosive_ammo_catagory": "Munitions explosives",
+		"projectile_ammo_catagory": "Pistolet à projectiles"
+    },
+	"teleports": {
+        "main": "Teleport",
+		"submenutitle": "Teleports",
+		"breakerCustom": "Custom",
+		"outdoor": {
+        "main": "Outdoor",
+		"submenutitle": "Extérieure"
+		},
+    	"indoor": {
+        "main": "Indoor",
+		"submenutitle": "Intérieure"
+		},
+    	"underwater": {
+        "main": "Underwater",
+		"submenutitle": "Sous-marine"
+		},
+    	"sky": {
+        "main": "Sky",
+		"submenutitle": "Ciel"
+		}
     }
 }

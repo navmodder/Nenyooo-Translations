@@ -12,7 +12,71 @@
 	"boolwalkunderwater": "Біг під водою",
 	"boolnoclip": "Немає кліпу"
     },
-    "vehicle": {
-        "main": "транспортний засіб"
+   "vehicle": {
+        "main": "автомобиль",
+		"submenutitle": "Варианты автомобиля",
+		 "spawncar": {
+			 "main": "Спаунер транспортных средств",
+			"submenutitle": "Спаун автомобиля"
+		 },	
+		 "multiplier": {
+			 "main": "Множитель",
+			"submenutitle": "Множитель",		
+			"acceleration": "Ускорение",
+			"breaks": "Реверс и тормоз"
+		 },
+		 "invincible_catagory": "Непобедимость",
+		 "autofixer_catagory": "Автофиксатор",		
+		 "horn_catagory": "Рог и усиление",
+		 "acrobatics_catagory": "Акробатика",		
+		 "end_catagory": "Конец",
+		 "status": "Положение дел",
+		 "type": "Тип",
+		 "int_hornboostspeed": "Скорость",
+		 "bool_flyingmode": "Режим полета",
+		 "bool_drift": "Режим дрейфа",	
+		 "bool_seatnbelt": "Режим дрейфа",	
+		 "bool_towcar": "Эвакуатор",	
+		 "bool_rainbow": "Радужный автомобиль",	
+		 "fuc_dirt": "Уровень загрязнения",	
+		 "fuc_fixcar": "Чинить машину",		
+		 "fuc_upgradecar": "Обновить автомобиль"
+    },
+	"weapons": {
+        "main": "Оружие",
+		"submenutitle": "Оружие",
+		"trigger_getweapons": "Получить все оружие",
+		"boolinf_ammo": "Боеприпасы бесконечности",
+		"boolno_reload": "Нет перезагрузки",
+		"booltrigger_bot": "Trigger Bot",
+		"boolaim_bot": "Aimbot",
+		"booldelete_gun": "Удалить пистолет",
+		"boolteleport_gun": "Телепорт Пушка",
+		"boolairstike_gun": "Авиаударное ружье",
+		"booldriveit_gun": "Драйв это пистолет",
+		"boolforce_gun": "Силовой пистолет",
+		"explosive_ammo_catagory": "Разрывные боеприпасы",
+		"projectile_ammo_catagory": "Стрелковая пушка"
+    },
+	"teleports": {
+        "main": "Teleport",
+		"submenutitle": "Teleports",
+		"breakerCustom": "Custom",
+		"outdoor": {
+        "main": "Outdoor",
+		"submenutitle": "Открытый"
+		},
+    	"indoor": {
+        "main": "Indoor",
+		"submenutitle": "В помещении"
+		},
+    	"underwater": {
+        "main": "Underwater",
+		"submenutitle": "Подводный"
+		},
+    	"sky": {
+        "main": "Sky",
+		"submenutitle": "Небо"
+		}
     }
 }
