@@ -30,5 +30,26 @@
 	"boolforce_gun":"Force Gun",
     	"explosive_ammo_catagory":"Explosive Ammo",
     	"projectile_ammo_catagory":"Projectile Gun"
+    },
+    "teleports": {
+                "main": "Teleport",
+		"submenutitle": "Teleports",
+		"breakerCustom": "Custom",
+	"outdoor": {
+                "main": "Outdoor",
+		"submenutitle": "Outdoor"
+		},
+    	"indoor": {
+                "main": "Indoor",
+		"submenutitle": "Indoor"
+		},
+    	"underwater": {
+                "main": "Underwater",
+		"submenutitle": "Underwater"
+		},
+    	"sky": {
+                "main": "Sky",
+		"submenutitle": "Sky"
+		}
     }
 }
