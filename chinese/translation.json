@@ -14,5 +14,42 @@
     },
     "vehicle": {
         "main": "车辆"
+  },
+    "weapons": {
+        "main": "武器",
+    	"submenutitle": "武器",
+    	"trigger_getweapons": "获得所有武器",
+    	"boolinf_ammo": "无限弹药",
+    	"boolno_reload": "没有重装",
+    	"booltrigger_bot": "触发机器人",
+    	"boolaim_bot": "Aimbot",
+    	"booldelete_gun": "删除枪支",
+    	"boolteleport_gun": "传送枪",
+    	"boolairstike_gun": "空袭枪",
+	"booldriveit_gun": "驾驶它的枪",
+	"boolforce_gun": "原力枪",
+    	"explosive_ammo_catagory": "爆炸弹药",
+    	"projectile_ammo_catagory": "弹射枪"
+    },
+    "teleports": {
+                "main": "Teleport",
+		"submenutitle": "传送",
+		"breakerCustom": "风俗",
+	"outdoor": {
+                "main": "Outdoor",
+		"submenutitle": "户外"
+		},
+    	"indoor": {
+                "main": "Indoor",
+		"submenutitle": "室内的"
+		},
+    	"underwater": {
+                "main": "Underwater",
+		"submenutitle": "水下"
+		},
+    	"sky": {
+                "main": "Sky",
+		"submenutitle": "天空"
+		}
     }
 }
