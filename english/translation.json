@@ -84,6 +84,7 @@
     	"sky": {
         "main": "Sky",
 		"submenutitle": "Sky"
-		}
+		},
+		"show_coords": "Coordinates"
     }
 }
