@@ -10,7 +10,14 @@
 	"boolsuperrun": "Super Run",
 	"boolsuperjump": "Super Jump",
 	"boolwalkunderwater": "Walk Underwater",
-	"boolnoclip": "No Clip"
+	"boolnoclip": "No Clip",
+	"status": "Status",
+	"type": "Type",	
+	"regen_category": "Regeneration",	
+	"end_category": "End",
+	"toggle_props": "Random Props",	
+	"toggle_clean_player": "Cleans Player",	
+	"toggle_kys": "Kill Your Self"
     },
     "vehicle": {
         "main": "Vehicle",
@@ -25,11 +32,11 @@
 			"acceleration": "Acceleration",
 			"breaks": "Reverse'n Break"
 		 },
-		 "invincible_catagory": "Invincibility",
-		 "autofixer_catagory": "Auto Fixer",		
-		 "horn_catagory": "Horn & Boost",
-		 "acrobatics_catagory": "Acrobatics",		
-		 "end_catagory": "End",
+		 "invincible_category": "Invincibility",
+		 "autofixer_category": "Auto Fixer",		
+		 "horn_category": "Horn & Boost",
+		 "acrobatics_category": "Acrobatics",		
+		 "end_category": "End",
 		 "status": "Status",
 		 "type": "Type",
 		 "int_hornboostspeed":"Speed",
@@ -55,8 +62,8 @@
 		"boolairstike_gun":"Airstike Gun",
 		"booldriveit_gun":"Drive It Gun",
 		"boolforce_gun":"Force Gun",
-		"explosive_ammo_catagory":"Explosive Ammo",
-		"projectile_ammo_catagory":"Projectile Gun"
+		"explosive_ammo_category":"Explosive Ammo",
+		"projectile_ammo_category":"Projectile Gun"
     },
 	"teleports": {
         "main": "Teleport",
