@@ -1,0 +1,82 @@
+{
+    "self": {
+        "main": "Auto",
+        "submenutitle": "Opciones propias",
+	"boolinvincible": "invencible",
+	"boolwanted": "Nunca quise",
+	"boolinvisible": "Invisible",
+	"boolneverfall": "Nunca caigas",
+	"boolforcefield": "Campo de fuerza",
+	"boolsuperrun": "Super Run",
+	"boolsuperjump": "Súper salto",
+	"boolwalkunderwater": "Caminar bajo el agua",
+	"boolnoclip": "Sin clip"
+    },
+    "vehicle": {
+        "main": "Vehículo",
+		"submenutitle": "Opciones de vehículos",
+		 "spawncar": {
+			 "main": "Generador de vehículos",
+			"submenutitle": "Generación de vehículos"
+		 },	
+		 "multiplier": {
+			 "main": "Multiplicador",
+			"submenutitle": "Multiplicador",		
+			"acceleration": "Aceleración",
+			"breaks": "Marcha atrás y rotura"
+		 },
+		 "invincible_catagory": "Invencibilidad",
+		 "autofixer_catagory": "Auto Fixer",		
+		 "horn_catagory": "Bocina y Boost",
+		 "acrobatics_catagory": "Acrobacia",		
+		 "end_catagory": "Fin",
+		 "status": "Estado",
+		 "type": "Tipo",
+		 "int_hornboostspeed": "Velocidad",
+		 "bool_flyingmode": "Modo avión",
+		 "bool_drift": "Modo Drift",	
+		 "bool_seatnbelt": "Cinturón de seguridad",	
+		 "bool_towcar": "Grúa",	
+		 "bool_rainbow": "Coche arco iris",	
+		 "fuc_dirt": "Nivel de suciedad",	
+		 "fuc_fixcar": "Arreglar el coche",		
+		 "fuc_upgradecar": "Actualizar coche"
+    },
+	"weapons": {
+        "main": "Weapons",
+		"submenutitle": "Armas",
+		"trigger_getweapons": "Conseguir todas las armas",
+		"boolinf_ammo": "Munición Infinit",
+		"boolno_reload": "Sin recarga",
+		"booltrigger_bot": "Trigger Bot",
+		"boolaim_bot": "Aimbot",
+		"booldelete_gun": "Borrar pistola",
+		"boolteleport_gun": "Pistola teletransportadora",
+		"boolairstike_gun": "Pistola Airstike",
+		"booldriveit_gun": "Pistola Drive It",
+		"boolforce_gun": "Pistola de fuerza",
+		"explosive_ammo_catagory": "Munición explosiva",
+		"projectile_ammo_catagory": "Pistola de proyectiles"
+    },
+	"teleports": {
+        "main": "Teleport",
+		"submenutitle": "Teleports",
+		"breakerCustom": "Custom",
+		"outdoor": {
+        "main": "Outdoor",
+		"submenutitle": "En el exterior"
+		},
+    	"indoor": {
+        "main": "Indoor",
+		"submenutitle": "Interior"
+		},
+    	"underwater": {
+        "main": "Underwater",
+		"submenutitle": "Bajo el agua"
+		},
+    	"sky": {
+        "main": "Sky",
+		"submenutitle": "Cielo"
+		}
+    }
+}
