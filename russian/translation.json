@@ -10,7 +10,14 @@
 		"boolsuperrun": "Супер бег",
 		"boolsuperjump": "Супер прыжок",
 		"boolwalkunderwater": "Подводная ходьба",
-		"boolnoclip": "Ноуклип"
+		"boolnoclip": "Ноуклип",
+		"status": "Состояние",
+		"type": "Тип",
+		"regen_category": "Регенерация",
+		"end_category": "Конец",
+		"toggle_props": "Случайные объекты",
+		"toggle_clean_player": "Очистить персонажа",
+		"toggle_kys": "Аннигилировать персонажа"
 	},
 	"vehicle": {
 		"main": "Транспорт",
@@ -25,11 +32,11 @@
 			"acceleration": "Ускорение",
 			"breaks": "Тормоз и задний ход"
 		},
-		"invincible_catagory": "Неуязвимость",
-		"autofixer_catagory": "Авто-починка",
-		"horn_catagory": "Посигналь и ускорься",
-		"acrobatics_catagory": "Акробатика",
-		"end_catagory": "Конец",
+		"invincible_category": "Неуязвимость",
+		"autofixer_category": "Авто-починка",
+		"horn_category": "Посигналь и ускорься",
+		"acrobatics_category": "Акробатика",
+		"end_category": "Конец",
 		"status": "Состояние",
 		"type": "Тип",
 		"int_hornboostspeed": "ПиУ скорость",
@@ -45,7 +52,7 @@
 	"weapons": {
 		"main": "Оружие",
 		"submenutitle": "Оружие",
-		"trigger_getweapons": "Получить всё оружие",
+		"trigger_getweapons": "Выдать всё оружие",
 		"boolinf_ammo": "Бесконечные патроны",
 		"boolno_reload": "Отключить перезарядку",
 		"booltrigger_bot": "Сагрить ботов",
@@ -55,8 +62,8 @@
 		"boolairstike_gun": "Пушка авиаудара",
 		"booldriveit_gun": "Пушка управления машиной",
 		"boolforce_gun": "Пушка Силы",
-		"explosive_ammo_catagory": "Разрывные снаряды",
-		"projectile_ammo_catagory": "Большие снаряды"
+		"explosive_ammo_category": "Разрывные снаряды",
+		"projectile_ammo_category": "Большие снаряды"
 	},
 	"teleports": {
 		"main": "Телепорт",
@@ -77,6 +84,7 @@
 		"sky": {
 			"main": "На небо",
 			"submenutitle": "На небо"
-		}
+		},
+		"show_coords": "Координаты"
 	}
 }
