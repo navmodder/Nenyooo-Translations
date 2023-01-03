@@ -2,7 +2,7 @@
     "self": {
         "main": "Self",
         "submenutitle": "Self Options",
-	"boolinvincible": "invincible",
+	"boolinvincible": "Invincible",
 	"boolwanted": "Never Wanted",
 	"boolinvisible": "Invisible",
 	"boolneverfall": "Never Fall",
@@ -61,7 +61,7 @@
 		"boolteleport_gun":"Teleport Gun",
 		"boolairstike_gun":"Airstike Gun",
 		"booldriveit_gun":"Drive It Gun",
-		"boolforce_gun":"Force Gun",
+		"boolforce_gun":"Vehicle Force Gun",
 		"explosive_ammo_category":"Explosive Ammo",
 		"projectile_ammo_category":"Projectile Gun"
     },
