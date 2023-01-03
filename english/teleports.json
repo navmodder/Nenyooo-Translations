@@ -12,15 +12,20 @@
             -1278.583,
             29.27
         ],      
-		"Blaine County Savings Bank": [
+	"Blaine County Savings Bank": [
             -109.299,
             6464.035,
             31.627
         ],
-		"Police Station": [
+	"Police Station": [
             436.491 ,
             -982.172,
             30.699
+        ],
+       "Humane Labs Entrance": [
+            3619.749,
+            2742.740,
+           28.690
         ]
     },
     "Outdoor": {
