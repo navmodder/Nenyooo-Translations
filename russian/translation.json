@@ -1,4 +1,26 @@
 {
+	"network_p": {
+		"boolspectate": "Наблюдение",
+		"sub_player": "Игрок",
+		"player": {
+			"cloner": {
+				"clone": "Клонировать как..."
+			},
+			"shooter": {
+				"shoot": "Выстрелить..."
+			},
+			"create_explosions": {
+				"explosion_": "Взорвать"
+			},
+			"fuc_ceo": {
+				"ceo": "Босс"
+			}
+		},
+		"sub_vehicle": "Транспорт",
+		"sub_weapon": "Оружие",
+		"sub_social": "Аккаунт",
+		"fuc_copyoutfits": "Копировать внешний вид"
+	},
 	"self": {
 		"main": "Персонаж",
 		"submenutitle": "Параметры персонажа",
