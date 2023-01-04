@@ -20,6 +20,7 @@
 	   },
 	   "sub_vehicle": "Vehicle",
 	   	   "vehicle": {
+			  
 			   "fuc_boost_category": "Push Vehicle",
 			   "fuc_push": "Push",
 			   "fuc_push_speed": "Speed",
@@ -27,10 +28,11 @@
 			   "end_category": "End",
 			   "rotationrandom": "Randomly Rotate Vehicle",
 			   "engine": "Engine",
+			    "fuc_gravity": "Vehicle Gravity",
 			   "fix": "Fix Vehicle",
 			   "upgrade": "Upgrade Vehicle"
 		   },
-	   "sub_weapon": "Weapon",	 
+	   "sub_weapon": "Weapon",		   
 	   "sub_social": "Social", 
 	   "fuc_copyoutfits": "Copy Outfits"
 	},
