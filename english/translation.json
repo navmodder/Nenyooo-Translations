@@ -1,4 +1,25 @@
-{
+{ 	"network_p": {
+       "boolspectate": "Spectate",
+	   "sub_player": "Player",
+	   "player": {
+		   "cloner": {
+			   "clone": "Clone as"
+		   },
+		   "shooter":{
+			   "shoot": "Shoot an"
+		   },	
+		   "create_explosions":{
+			   "explosion_": "Create An Explosion"
+		   },
+		   "fuc_ceo":{
+			   "ceo": "Ceo"
+		   }
+	   },
+	   "sub_vehicle": "Vehicle",
+	   "sub_weapon": "Weapon",	 
+	   "sub_social": "Social", 
+	   "fuc_copyoutfits": "Copy Outfits"
+	},
     "self": {
         "main": "Self",
         "submenutitle": "Self Options",
