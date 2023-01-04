@@ -13,9 +13,23 @@
 		   },
 		   "fuc_ceo":{
 			   "ceo": "Ceo"
+		   },	 
+		   "fuc_kick":{
+			   "kick": "Kick"
 		   }
 	   },
 	   "sub_vehicle": "Vehicle",
+	   	   "vehicle": {
+			   "fuc_boost_category": "Push Vehicle",
+			   "fuc_push": "Push",
+			   "fuc_push_speed": "Speed",
+			   "fuc_kick": "Kick Out Of Vehicle",
+			   "end_category": "End",
+			   "rotationrandom": "Randomly Rotate Vehicle",
+			   "engine": "Engine",
+			   "fix": "Fix Vehicle",
+			   "upgrade": "Upgrade Vehicle"
+		   },
 	   "sub_weapon": "Weapon",	 
 	   "sub_social": "Social", 
 	   "fuc_copyoutfits": "Copy Outfits"
