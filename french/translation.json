@@ -31,13 +31,13 @@
 		 "acrobatics_catagory": "Acrobaties",		
 		 "end_catagory": "Fin",
 		 "status": "Statut",
-		 "type": "Taper",
+		 "type": "Type",
 		 "int_hornboostspeed": "Vitesse",
 		 "bool_flyingmode": "Véhicule volant",
 		 "bool_drift": "Mode Drift",	
 		 "bool_seatnbelt": "Ne jamais tomber du véhicule",	
 		 "bool_towcar": "Voiture de remorquage",	
-		 "bool_rainbow": "Couleurs arc-en-ciel",	
+		 "bool_rainbow": "Mode Arc-en-ciel",	
 		 "fuc_dirt": "Niveau de saleté",	
 		 "fuc_fixcar": "Réparer la voiture",		
 		 "fuc_upgradecar": "Améliorer la voiture"
@@ -45,14 +45,14 @@
 	"weapons": {
         "main": "Weapons",
 		"submenutitle": "Armes",
-		"trigger_getweapons": "Obtenez toutes les armes",
+		"trigger_getweapons": "Obtenir toutes les armes",
 		"boolinf_ammo": "Munitions infinies",
 		"boolno_reload": "Pas de rechargement",
 		"booltrigger_bot": "Tir automatique",
 		"boolaim_bot": "Visée automatique",
 		"booldelete_gun": "Tirer = supprime l'entité",
 		"boolteleport_gun": "Tirer = Téléportation",
-		"boolairstike_gun": "Tirer = Roquettes de rpg dans leurs gueules",
+		"boolairstike_gun": "Tirer = Roquettes dans leurs gueules",
 		"booldriveit_gun": "Tirer = Conduire la voiture",
 		"boolforce_gun": "Tirer = Pousse l'entité très fort",
 		"explosive_ammo_catagory": "Munitions explosives",
@@ -63,20 +63,20 @@
 		"submenutitle": "Se téléporter",
 		"breakerCustom": "Custom",
 		"outdoor": {
-        "main": "Outdoor",
-		"submenutitle": "Extérieure"
+        "main": "En Extérieur",
+		"submenutitle": "En Extérieur"
 		},
     	"indoor": {
-        "main": "Indoor",
-		"submenutitle": "Intérieure"
+        "main": "En Intérieur",
+		"submenutitle": "En Intérieurr"
 		},
     	"underwater": {
-        "main": "Underwater",
+        "main": "Sous l'eau",
 		"submenutitle": "Sous l'eau"
 		},
     	"sky": {
-        "main": "Sky",
-		"submenutitle": "Ciel"
+        "main": "Dans le Ciel",
+		"submenutitle": "Dansn le Ciel"
 		}
     }
 }
