@@ -32,8 +32,16 @@
 			   "fix": "Fix Vehicle",
 			   "upgrade": "Upgrade Vehicle"
 		   },
-	   "sub_weapon": "Weapon",		   
-	   "sub_social": "Social", 
+	   "sub_weapon": "Weapon",	
+		"weapon": {
+		"fuc_weapons": "Weapons",
+		"drop": "Drop"
+		},
+		"teleport" : {
+			"fuc_teleport": "Teleport",
+			"fuc_teleportcayo": "Teleport To Cayo" 
+		},
+	   "fuc_social": "Social", 
 	   "fuc_copyoutfits": "Copy Outfits"
 	},
     "self": {
