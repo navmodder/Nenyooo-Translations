@@ -14,11 +14,34 @@
             },
             "fuc_ceo": {
                 "ceo": "Босс"
+            },
+            "fuc_kick": {
+                "kick": "Выгнать"
             }
         },
         "sub_vehicle": "Транспорт",
+        "vehicle": {
+            "fuc_boost_category": "Толкнуть транспорт",
+            "fuc_push": "Пихнуть",
+            "fuc_push_speed": "Ускорить",
+            "fuc_kick": "Выкинуть из транспорта",
+            "end_category": "Конец",
+            "rotationrandom": "Повернуть транспорт",
+            "engine": "Двигатель",
+            "fuc_gravity": "Гравитация транспорта",
+            "fix": "Починить транспорт",
+            "upgrade": "Прокачать транспорт"
+        },
         "sub_weapon": "Оружие",
-        "sub_social": "Аккаунт",
+        "weapon": {
+            "fuc_weapons": "Оружие",
+            "drop": "Бросить"
+        },
+        "teleport": {
+            "fuc_teleport": "Телепортировать",
+            "fuc_teleportcayo": "Телепортировать на Кайо-Перико"
+        },
+        "fuc_social": "Аккаунт",
         "fuc_copyoutfits": "Копировать внешний вид"
     },
     "self": {
