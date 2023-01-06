@@ -115,20 +115,20 @@
         "submenutitle": "Локации",
         "breakerCustom": "Свои",
         "outdoor": {
-            "main": "Снаружи",
-            "submenutitle": "Снаружи"
+            "main": "Места на карте",
+            "submenutitle": "Места на карте"
         },
         "indoor": {
-            "main": "Внутри",
-            "submenutitle": "Внутри"
+            "main": "Интерьеры",
+            "submenutitle": "Интерьеры"
         },
         "underwater": {
-            "main": "Под воду",
-            "submenutitle": "Под воду"
+            "main": "Под водой",
+            "submenutitle": "Под водой"
         },
         "sky": {
-            "main": "На небо",
-            "submenutitle": "На небо"
+            "main": "На небе",
+            "submenutitle": "На небе"
         },
         "show_coords": "Координаты"
     }
