@@ -1,112 +1,112 @@
 {
-	"network_p": {
-		"boolspectate": "Наблюдение",
-		"sub_player": "Игрок",
-		"player": {
-			"cloner": {
-				"clone": "Клонировать как..."
-			},
-			"shooter": {
-				"shoot": "Выстрелить..."
-			},
-			"create_explosions": {
-				"explosion_": "Взорвать"
-			},
-			"fuc_ceo": {
-				"ceo": "Босс"
-			}
-		},
-		"sub_vehicle": "Транспорт",
-		"sub_weapon": "Оружие",
-		"sub_social": "Аккаунт",
-		"fuc_copyoutfits": "Копировать внешний вид"
-	},
-	"self": {
-		"main": "Персонаж",
-		"submenutitle": "Параметры персонажа",
-		"boolinvincible": "Неуязвимость",
-		"boolwanted": "Отключить розыск",
-		"boolinvisible": "Невидимость",
-		"boolneverfall": "Отключить падение",
-		"boolforcefield": "Силовое поле",
-		"boolsuperrun": "Супер бег",
-		"boolsuperjump": "Супер прыжок",
-		"boolwalkunderwater": "Подводная ходьба",
-		"boolnoclip": "Ноуклип",
-		"status": "Состояние",
-		"type": "Тип",
-		"regen_category": "Регенерация",
-		"end_category": "Конец",
-		"toggle_props": "Случайные объекты",
-		"toggle_clean_player": "Очистить персонажа",
-		"toggle_kys": "Аннигилировать персонажа"
-	},
-	"vehicle": {
-		"main": "Транспорт",
-		"submenutitle": "Параметры транспорта",
-		"spawncar": {
-			"main": "Спавнер трансопрта",
-			"submenutitle": "Спавн транспорта"
-		},
-		"multiplier": {
-			"main": "Множители",
-			"submenutitle": "Множители",
-			"acceleration": "Ускорение",
-			"breaks": "Тормоз и задний ход"
-		},
-		"invincible_category": "Неуязвимость",
-		"autofixer_category": "Авто-починка",
-		"horn_category": "Посигналь и ускорься",
-		"acrobatics_category": "Акробатика",
-		"end_category": "Конец",
-		"status": "Состояние",
-		"type": "Тип",
-		"int_hornboostspeed": "ПиУ скорость",
-		"bool_flyingmode": "Режим полёта",
-		"bool_drift": "Дрифт-режим",
-		"bool_seatnbelt": "Пристегнуть ремни",
-		"bool_towcar": "Тянуть машину",
-		"bool_rainbow": "Радужная окраска",
-		"fuc_dirt": "Уровень зацепа",
-		"fuc_fixcar": "Починить машину",
-		"fuc_upgradecar": "Прокачать машину"
-	},
-	"weapons": {
-		"main": "Оружие",
-		"submenutitle": "Оружие",
-		"trigger_getweapons": "Выдать всё оружие",
-		"boolinf_ammo": "Бесконечные патроны",
-		"boolno_reload": "Отключить перезарядку",
-		"booltrigger_bot": "Сагрить ботов",
-		"boolaim_bot": "Автоприцеливание",
-		"booldelete_gun": "Пушка-удалитель",
-		"boolteleport_gun": "Пушка-телепортатор",
-		"boolairstike_gun": "Пушка авиаудара",
-		"booldriveit_gun": "Пушка управления машиной",
-		"boolforce_gun": "Пушка Силы",
-		"explosive_ammo_category": "Разрывные снаряды",
-		"projectile_ammo_category": "Большие снаряды"
-	},
-	"teleports": {
-		"main": "Телепорт",
-		"submenutitle": "Локации",
-		"breakerCustom": "Свои",
-		"outdoor": {
-			"main": "Снаружи",
-			"submenutitle": "Снаружи"
-		},
-		"indoor": {
-			"main": "Внутри",
-			"submenutitle": "Внутри"
-		},
-		"underwater": {
-			"main": "Под воду",
-			"submenutitle": "Под воду"
-		},
-		"sky": {
-			"main": "На небо",
-			"submenutitle": "На небо"
-		},
-		"show_coords": "Координаты"
-	}
+    "network_p": {
+        "boolspectate": "Наблюдение",
+        "sub_player": "Игрок",
+        "player": {
+            "cloner": {
+                "clone": "Клонировать как..."
+            },
+            "shooter": {
+                "shoot": "Выстрелить..."
+            },
+            "create_explosions": {
+                "explosion_": "Взорвать"
+            },
+            "fuc_ceo": {
+                "ceo": "Босс"
+            }
+        },
+        "sub_vehicle": "Транспорт",
+        "sub_weapon": "Оружие",
+        "sub_social": "Аккаунт",
+        "fuc_copyoutfits": "Копировать внешний вид"
+    },
+    "self": {
+        "main": "Персонаж",
+        "submenutitle": "Параметры персонажа",
+        "boolinvincible": "Неуязвимость",
+        "boolwanted": "Отключить розыск",
+        "boolinvisible": "Невидимость",
+        "boolneverfall": "Отключить падение",
+        "boolforcefield": "Силовое поле",
+        "boolsuperrun": "Супер бег",
+        "boolsuperjump": "Супер прыжок",
+        "boolwalkunderwater": "Подводная ходьба",
+        "boolnoclip": "Ноуклип",
+        "status": "Состояние",
+        "type": "Тип",
+        "regen_category": "Регенерация",
+        "end_category": "Конец",
+        "toggle_props": "Случайные объекты",
+        "toggle_clean_player": "Очистить персонажа",
+        "toggle_kys": "Аннигилировать персонажа"
+    },
+    "vehicle": {
+        "main": "Транспорт",
+        "submenutitle": "Параметры транспорта",
+        "spawncar": {
+            "main": "Спавнер трансопрта",
+            "submenutitle": "Спавн транспорта"
+        },
+        "multiplier": {
+            "main": "Множители",
+            "submenutitle": "Множители",
+            "acceleration": "Ускорение",
+            "breaks": "Тормоз и задний ход"
+        },
+        "invincible_category": "Неуязвимость",
+        "autofixer_category": "Авто-починка",
+        "horn_category": "Посигналь и ускорься",
+        "acrobatics_category": "Акробатика",
+        "end_category": "Конец",
+        "status": "Состояние",
+        "type": "Тип",
+        "int_hornboostspeed": "ПиУ скорость",
+        "bool_flyingmode": "Режим полёта",
+        "bool_drift": "Дрифт-режим",
+        "bool_seatnbelt": "Пристегнуть ремни",
+        "bool_towcar": "Тянуть машину",
+        "bool_rainbow": "Радужная окраска",
+        "fuc_dirt": "Уровень зацепа",
+        "fuc_fixcar": "Починить машину",
+        "fuc_upgradecar": "Прокачать машину"
+    },
+    "weapons": {
+        "main": "Оружие",
+        "submenutitle": "Оружие",
+        "trigger_getweapons": "Выдать всё оружие",
+        "boolinf_ammo": "Бесконечные патроны",
+        "boolno_reload": "Отключить перезарядку",
+        "booltrigger_bot": "Сагрить ботов",
+        "boolaim_bot": "Автоприцеливание",
+        "booldelete_gun": "Пушка-удалитель",
+        "boolteleport_gun": "Пушка-телепортатор",
+        "boolairstike_gun": "Пушка авиаудара",
+        "booldriveit_gun": "Пушка управления машиной",
+        "boolforce_gun": "Пушка Силы",
+        "explosive_ammo_category": "Разрывные снаряды",
+        "projectile_ammo_category": "Большие снаряды"
+    },
+    "teleports": {
+        "main": "Телепорт",
+        "submenutitle": "Локации",
+        "breakerCustom": "Свои",
+        "outdoor": {
+            "main": "Снаружи",
+            "submenutitle": "Снаружи"
+        },
+        "indoor": {
+            "main": "Внутри",
+            "submenutitle": "Внутри"
+        },
+        "underwater": {
+            "main": "Под воду",
+            "submenutitle": "Под воду"
+        },
+        "sky": {
+            "main": "На небо",
+            "submenutitle": "На небо"
+        },
+        "show_coords": "Координаты"
+    }
 }
