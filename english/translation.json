@@ -1,7 +1,9 @@
 { 	"network_p": {
-       "boolspectate": "Spectate",
+       "main": "Players",
+	   "boolspectate": "Spectate",
 	   "sub_player": "Player",
 	   "player": {
+		   "boolremote_rp_money": "Give Rp & Money",
 		   "cloner": {
 			   "clone": "Clone as"
 		   },
@@ -44,6 +46,14 @@
 	   "fuc_social": "Social", 
 	   "fuc_copyoutfits": "Copy Outfits"
 	},
+	 "sub_general_network": {
+		 "main": "General",
+		 "submenutitle": "General Options",
+		 "bool_otr": "Off Radar",
+		 "bool_idlekick": "Anti Idle Kick",
+		 "bool_reveal_otr": "Reveal Off Radar Players",
+		 "bool_reveal_inv": "Reveal Invisible Players"
+	 },
     "self": {
         "main": "Self",
         "submenutitle": "Self Options",
@@ -131,5 +141,21 @@
 		"submenutitle": "Sky"
 		},
 		"show_coords": "Coordinates"
+    },
+	"asiloader": {
+        "main": "Asi Loader",
+		"submenutitle": "Loaded .asi"
+
+    },
+	"weather": {
+        "main": "Weather",
+		"submenutitle": "Weather Editor",
+		"set_weather": "Change Weather",
+		"create_flash": "Create Lightning",
+		"cloud": "Cloud",
+		"hour": "Hour",
+		"minute": "Minute",
+		"second": "Second"
     }
+
 }
