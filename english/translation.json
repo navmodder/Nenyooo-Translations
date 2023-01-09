@@ -30,12 +30,16 @@
 			   "end_category": "End",
 			   "rotationrandom": "Randomly Rotate Vehicle",
 			   "engine": "Engine",
-			    "fuc_gravity": "Vehicle Gravity",
+			    "fuc_invincible": "Vehicle Invincible",
 			   "fix": "Fix Vehicle",
 			   "upgrade": "Upgrade Vehicle"
 		   },
 	   "sub_weapon": "Weapon",	
 		"weapon": {
+		"bool_exp_ammo": "Explosive Ammo",
+		"exp_ammo_Type": "Explosive Select",
+		"bool_airstrike_gun": "Airstike Gun",
+		"bool_airstrike_Type": "Airstike Type",
 		"fuc_weapons": "Weapons",
 		"drop": "Drop"
 		},
@@ -52,7 +56,10 @@
 		 "bool_otr": "Off Radar",
 		 "bool_idlekick": "Anti Idle Kick",
 		 "bool_reveal_otr": "Reveal Off Radar Players",
-		 "bool_reveal_inv": "Reveal Invisible Players"
+		 "bool_reveal_inv": "Reveal Invisible Players",
+		 "name_spoofer":"Spoof Name",
+		 "scid_spoofer":"Spoof Scid",
+		 "fuc_create_solo_lobby":"Solo Lobby"
 	 },
     "self": {
         "main": "Self",
@@ -156,6 +163,14 @@
 		"hour": "Hour",
 		"minute": "Minute",
 		"second": "Second"
+    },
+	"misc": {
+        "main": "Misc",
+		"submenutitle": "Misc",
+		"bool_superman": "Super Man Mod",
+		"bool_axe": "Leviathan Axe",
+		"fuc_skip_cutscenes": "Skip Cutscene"
     }
+	
 
 }
