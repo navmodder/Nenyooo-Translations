@@ -71,6 +71,7 @@
 			 "_fakedeposits": "Fake Deposits",
 			 "_forcemissions": "Force Mission",
 			 "_forceteleport": "Force Teleport",
+			 "_transaction": "Transaction Error",
 			 "_givecollectibles": "Give Collectibles",
 			 "_banner": "Banner",
 			 "_mcteleport": "Mc Teleport", 
@@ -120,14 +121,21 @@
 		"submenutitle": "Vehicle Options",
 		 "spawncar": {
 			 "main": "Vehicle Spawner",
-			"submenutitle": "Vehicle Spawn"
+			"submenutitle": "Vehicle Spawn",
+			"spawn_settings": {
+			 "main": "Spawn Settings",
+			"submenutitle": "Settings",		
+			"bool_spawninsidecar": "Spawn Inside",
+			"bool_upgradedcar": "Fully Upgraded",
+			"bool_random_paints": "Random Paints"
+		 }
 		 },	
 		 "multiplier": {
 			 "main": "Multiplier",
 			"submenutitle": "Multiplier",		
 			"acceleration": "Acceleration",
 			"breaks": "Reverse'n Break"
-		 },
+		 },		
 		 "invincible_category": "Invincibility",
 		 "autofixer_category": "Auto Fixer",		
 		 "horn_category": "Horn & Boost",
@@ -136,7 +144,7 @@
 		 "status": "Status",
 		 "type": "Type",
 		 "int_hornboostspeed":"Speed",
-		 "bool_flyingmode": "Flying Mode",
+		 "flying_category": "Flying Mode",
 		 "bool_drift": "Drift Mode",	
 		 "bool_seatnbelt": "Seat Belt",	
 		 "bool_towcar": "Tow Car",	
@@ -157,7 +165,7 @@
 		"boolteleport_gun":"Teleport Gun",
 		"boolairstike_gun":"Airstike Gun",
 		"booldriveit_gun":"Drive It Gun",
-		"boolforce_gun":"Vehicle Force Gun",
+		"boolforce_gun":"Force Gun",
 		"explosive_ammo_category":"Explosive Ammo",
 		"projectile_ammo_category":"Projectile Gun"
     },
@@ -190,6 +198,7 @@
 		"sub_peds" : "Peds",
 		"sub_vehicle": "Vehicles",
 		"sub_object": "Objects",
+		"database_": "Manage Entities",
 		"database" : {
 			"main": "Spooner"
 		}
@@ -220,6 +229,34 @@
 				 "hole_size": "Size",
 				 "hole_strength": "Strength",
 				 "hole_toggle" : "Status"
+				},
+				"hud_color_sub" : {
+				"main": "Hud Colors",
+				"submenutitle": "Colors"
+				 
+				},		
+				"magnatic" : {
+				"main": "Magnatic Mod",
+				"submenutitle": "Magnatic",
+				"include_entities": "Include",
+				"type": "Type",
+				"delay": "Delay Updating Coord",
+				"z_distance": "Z Coord",
+				"far_distance": "Far Coord",
+				"distance": "Distance To Grab Entites",
+				"speed": "Speed",
+				"magnatic_toggle" : "Status"				 
+				},		
+				"airstrike" : {
+				"main": "Airstike Mod",
+				"submenutitle": "Airstike",
+				"type": "Type",
+				"shootat": "Shoot At",
+				"shootfrom": "Shoot From",
+				"delay": "Delay",
+				"speed": "Speed",
+				"toggle" : "Status",
+				"audio" : "Audio"				 
 				},
 		"bool_superman": "Super Man Mod",
 		"bool_axe": "Leviathan Axe",
