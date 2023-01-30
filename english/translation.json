@@ -2,25 +2,26 @@
        "main": "Players",
 	   "boolspectate": "Spectate",
 	   "sub_player": "Player",
-	   "player": {
-		   "boolremote_rp_money": "Give Rp & Money",
-		   "boolinf_parachuting": "Unlimted Parachuting",
-		   "cloner": {
-			   "clone": "Clone as"
-		   },
-		   "shooter":{
-			   "shoot": "Shoot an"
-		   },	
-		   "create_explosions":{
-			   "explosion_": "Create An Explosion"
-		   },
-		   "fuc_ceo":{
-			   "ceo": "Ceo"
-		   },	 
-		   "fuc_kick":{
-			   "kick": "Kick"
-		   }
-	   },
+	"player": {
+		"boolremote_rp_money": "Give Rp & Money",
+		"boolinf_parachuting": "Unlimted Parachuting",
+		"fuc_crash": "Ultimate Crash",
+		"cloner": {
+			"clone": "Clone as"
+		},
+		"shooter": {
+			"shoot": "Shoot an"
+		},
+		"create_explosions": {
+			"explosion_": "Create An Explosion"
+		},
+		"fuc_ceo": {
+			"ceo": "Ceo"
+		},
+		"fuc_kick": {
+			"kick": "Kick"
+		}
+	},
 	   "sub_vehicle": "Vehicle",
 	   	   "vehicle": {
 			   "bool_hornboost": "Give Hold Horn Boost",
@@ -116,43 +117,48 @@
 	"toggle_clean_player": "Cleans Player",	
 	"toggle_kys": "Kill Your Self"
     },
-    "vehicle": {
-        "main": "Vehicle",
+	"vehicle": {
+		"main": "Vehicle",
 		"submenutitle": "Vehicle Options",
-		 "spawncar": {
-			 "main": "Vehicle Spawner",
+		"spawncar": {
+			"main": "Vehicle Spawner",
 			"submenutitle": "Vehicle Spawn",
 			"spawn_settings": {
-			 "main": "Spawn Settings",
-			"submenutitle": "Settings",		
-			"bool_spawninsidecar": "Spawn Inside",
-			"bool_upgradedcar": "Fully Upgraded",
-			"bool_random_paints": "Random Paints"
-		 }
-		 },	
-		 "multiplier": {
-			 "main": "Multiplier",
-			"submenutitle": "Multiplier",		
+				"main": "Spawn Settings",
+				"submenutitle": "Settings",
+				"bool_spawninsidecar": "Spawn Inside",
+				"bool_upgradedcar": "Fully Upgraded",
+				"bool_random_paints": "Random Paints"
+			}
+		},
+		"multiplier": {
+			"main": "Multiplier",
+			"submenutitle": "Multiplier",
 			"acceleration": "Acceleration",
 			"breaks": "Reverse'n Break"
-		 },		
-		 "invincible_category": "Invincibility",
-		 "autofixer_category": "Auto Fixer",		
-		 "horn_category": "Horn & Boost",
-		 "acrobatics_category": "Acrobatics",		
-		 "end_category": "End",
-		 "status": "Status",
-		 "type": "Type",
-		 "int_hornboostspeed":"Speed",
-		 "flying_category": "Flying Mode",
-		 "bool_drift": "Drift Mode",	
-		 "bool_seatnbelt": "Seat Belt",	
-		 "bool_towcar": "Tow Car",	
-		 "bool_rainbow": "Rainbow Car",	
-		 "fuc_dirt": "Dirt Level",	
-		 "fuc_fixcar": "Fix Car",		
-		 "fuc_upgradecar": "Upgrade Car"
-    },
+		},
+		"xmlvehicles": {
+			"main": "Xml Vehicles",
+			"submenutitle": "Xml Vehicles"
+
+		},
+		"invincible_category": "Invincibility",
+		"autofixer_category": "Auto Fixer",
+		"horn_category": "Horn & Boost",
+		"acrobatics_category": "Acrobatics",
+		"end_category": "End",
+		"status": "Status",
+		"type": "Type",
+		"int_hornboostspeed": "Speed",
+		"flying_category": "Flying Mode",
+		"bool_drift": "Drift Mode",
+		"bool_seatnbelt": "Seat Belt",
+		"bool_towcar": "Tow Car",
+		"bool_rainbow": "Rainbow Car",
+		"fuc_dirt": "Dirt Level",
+		"fuc_fixcar": "Fix Car",
+		"fuc_upgradecar": "Upgrade Car"
+	},
 	"weapons": {
         "main": "Weapons",
 		"submenutitle": "Weapons",
@@ -204,10 +210,10 @@
 		}
 	},
 	"asiloader": {
-        "main": "Asi Loader",
+		"main": "Asi Loader",
 		"submenutitle": "Loaded .asi"
 
-    },
+	},
 	"weather": {
         "main": "Weather",
 		"submenutitle": "Weather Editor",
@@ -228,11 +234,16 @@
 				 "hole_coordinates_set" : "Set Coordinates",
 				 "hole_size": "Size",
 				 "hole_strength": "Strength",
+				 "hole_delete_toggle": "Delete",
 				 "hole_toggle" : "Status"
 				},
 				"hud_color_sub" : {
 				"main": "Hud Colors",
-				"submenutitle": "Colors"
+				"submenutitle": "Colors"			 
+				},			
+				"xmlmap" : {
+				"main": "Xml Maps",
+				"submenutitle": "Xml Map Loader"
 				 
 				},		
 				"magnatic" : {
