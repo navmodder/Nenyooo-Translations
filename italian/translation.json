@@ -1,0 +1,275 @@
+{
+    "network_p": {
+        "main": "Giocatori",
+        "boolspectate": "Modalità spettatore",
+        "sub_player": "Giocatore",
+        "player": {
+            "boolremote_rp_money": "Aggiungi Rp & Soldi",
+            "boolinf_parachuting": "Paracaduti Infiniti",
+            "fuc_crash": "Crash Finale",
+            "cloner": {
+                "clone": "Clona come"
+            },
+            "shooter": {
+                "shoot": "Spara un"
+            },
+            "create_explosions": {
+                "explosion_": "Crea un'esplosione"
+            },
+            "fuc_ceo": {
+                "ceo": "Ceo"
+            },
+            "fuc_kick": {
+                "kick": "Kick"
+            }
+        },
+        "sub_vehicle": "Veicolo",
+        "vehicle": {
+            "bool_hornboost": "Fornisci Boost quando viene premuto il clacson",
+            "fuc_boost_category": "Spingi Veicolo",
+            "fuc_push": "Spingi",
+            "fuc_push_speed": "Velocità",
+            "fuc_kick": "Butta fuori dal Veicolo",
+            "end_category": "Fine",
+            "rotationrandom": "Gira casualmente il Veicolo",
+            "engine": "Motore",
+            "fuc_invincible": "Veicolo Invincibile",
+            "fix": "Ripara Veicolo",
+            "upgrade": "Modifica Veicolo"
+        },
+        "sub_weapon": "Armi",
+        "weapon": {
+            "bool_exp_ammo": "Munizioni Esplosive",
+            "exp_ammo_Type": "Seleziona Esplosivo",
+            "bool_airstrike_gun": "Arma Airstike",
+            "bool_airstrike_Type": "Tipo Airstike",
+            "fuc_weapons": "Armi",
+            "drop": "Fai Cadere"
+        },
+        "teleport": {
+            "fuc_teleport": "Teletrasporto",
+            "fuc_teleportcayo": "Teletrasporto A Cayo"
+        },
+        "fuc_social": "Social",
+        "fuc_copyoutfits": "Copia Outfits"
+    },
+    "sub_general_network": {
+        "main": "Generale",
+        "submenutitle": "Opzioni Generali",
+        "sub_protections": "Protezioni",
+        "sub_protections_": {
+            "detect_modders": "Rileva Modders",
+            "kicks": "Kick",
+            "report": "Segnalazioni",
+            "freeze": "Blocca / Ghiaccia",
+            "ragdoll": "Ragdoll",
+            "request_control": "Richiesta Controllo",
+            "weapons_remove": "Rimuovi Armi",
+            "crash": "Crash",
+            "detect_Drops": "Rileva Caduta Soldi",
+            "_bounty": "Bounty",
+            "_ceomoney": "Soldi Ceo",
+            "_clearwanted": "Rimuovi Ricercato",
+            "_fakedeposits": "Depositi Finti",
+            "_forcemissions": "Forza Missione",
+            "_forceteleport": "Forza Teletrasporto",
+            "_transaction": "Errore Transazione",
+            "_givecollectibles": "Dai Collezionabili",
+            "_banner": "Banner",
+            "_mcteleport": "Teletrasporto Mc",
+            "_personal_dstry_veh": "Vaicolo Personale Distrutto",
+            "_otr": "Fuori Dal Radar",
+            "_rotatecam": "Ruota Camera",
+            "_sendtolocation": "Manda Posizione",
+            "_sendtocutscene": "Manda Filmato / Cutscene",
+            "_soundspam": "Spam Suono",
+            "_spectate": "Modalità Spettatore",
+            "_vehiclekick": "Kick dal Veicolo",
+            "_teleporttowarehouse": "Teletrasporto al Magazzino",
+            "_activity": "Avvia Attività",
+            "bool_sms": "SMS",
+            "save": "Salva Impostazioni"
+        },
+        "bool_otr": "Fuori Dal Radar",
+        "bool_idlekick": "Anti Idle Kick",
+        "bool_reveal_otr": "Rivela Giocatori Fuori Dal Radar",
+        "bool_reveal_inv": "Rivela Giocatori Invisibili",
+        "name_spoofer": "Spoof Nome",
+        "scid_spoofer": "Spoof Scid",
+        "fuc_create_solo_lobby": "Solo Lobby"
+    },
+    "self": {
+        "main": "Me Stesso",
+        "submenutitle": "Opzioni Me Stesso",
+        "boolinvincible": "Invincibile",
+        "boolwanted": "Mai Ricercato",
+        "boolinvisible": "Invisibile",
+        "boolneverfall": "Non Cadere Mai",
+        "boolforcefield": "Campo di Forza",
+        "boolsuperrun": "Super Corsa",
+        "boolsuperjump": "Super Salto",
+        "boolwalkunderwater": "Cammina sott'acqua",
+        "boolnoclip": "No Clip",
+        "status": "Stato",
+        "type": "Tipo",
+        "regen_category": "Rigenerazione",
+        "end_category": "Fine",
+        "toggle_props": "Props Random",
+        "toggle_clean_player": "Pulisci Giocatore",
+        "toggle_kys": "Suicidio"
+    },
+    "vehicle": {
+        "main": "Veicolo",
+        "submenutitle": "Opzioni Veicolo",
+        "spawncar": {
+            "main": "Generatore Veicolo",
+            "submenutitle": "Generatore Veicolo",
+            "spawn_settings": {
+                "main": "Opzioni Generatore",
+                "submenutitle": "Opzioni",
+                "bool_spawninsidecar": "Gia Dentro",
+                "bool_upgradedcar": "Modificato al massimo",
+                "bool_random_paints": "Colori Casuali"
+            }
+        },
+        "multiplier": {
+            "main": "Multiplier",
+            "submenutitle": "Multiplier",
+            "acceleration": "Accelerazine",
+            "breaks": "Reverse'n Break"
+        },
+        "xmlvehicles": {
+            "main": "Veicoli Xml",
+            "submenutitle": "Veicoli Xml"
+        },
+        "invincible_category": "Invincibilità",
+        "autofixer_category": "Riparazione Automatica",
+        "horn_category": "Clacson & boost",
+        "acrobatics_category": "Acrobazie",
+        "end_category": "Fine",
+        "status": "Stato",
+        "type": "Tipo",
+        "int_hornboostspeed": "Velocità",
+        "flying_category": "Modalità Volo",
+        "bool_drift": "Modalità Drift",
+        "bool_seatnbelt": "Cintura",
+        "bool_towcar": "Auto da Traino",
+        "bool_rainbow": "Veicolo Arcobaleno",
+        "fuc_dirt": "Livello Sporcizia",
+        "fuc_fixcar": "Ripara Veicolo",
+        "fuc_upgradecar": "Modifica Vehicolo"
+    },
+    "weapons": {
+        "main": "Armi",
+        "submenutitle": "Armi",
+        "trigger_getweapons": "Prendi Tutte le Armi",
+        "boolinf_ammo": "Munizioni Infinite",
+        "boolno_reload": "Niente Ricarica",
+        "booltrigger_bot": "Trigger Bot",
+        "boolaim_bot": "Aimbot",
+        "booldelete_gun": "Arma Cancella",
+        "boolteleport_gun": "Arma Teletrasporto",
+        "boolairstike_gun": "Arma Airstike",
+        "booldriveit_gun": "Arma Guidala",
+        "boolforce_gun": "Arma Spinta",
+        "explosive_ammo_category": "Categoria Tipi Esplosivi",
+        "projectile_ammo_category": "Categoria Tipi Munizioni"
+    },
+    "teleports": {
+        "main": "Teletrasporto",
+        "submenutitle": "Teletrasporti",
+        "breakerCustom": "Custom",
+        "outdoor": {
+            "main": "Fuori",
+            "submenutitle": "Fuori"
+        },
+        "indoor": {
+            "main": "Dentro",
+            "submenutitle": "Dentro"
+        },
+        "underwater": {
+            "main": "Sott'acqua",
+            "submenutitle": "Sott'acqua"
+        },
+        "sky": {
+            "main": "Cielo",
+            "submenutitle": "Cielo"
+        },
+        "show_coords": "Coordinate"
+    },
+    "spooner": {
+        "main": "Spooner",
+        "submenutitle": "Spooner",
+        "bool_spooner": "Spooner Mode",
+        "sub_peds": "Peds",
+        "sub_vehicle": "Veicoli",
+        "sub_object": "Oggetti",
+        "database_": "Gestisci Entità",
+        "database": {
+            "main": "Spooner"
+        }
+    },
+    "asiloader": {
+        "main": "Caricatore Asi",
+        "submenutitle": "Caricato .asi"
+    },
+    "weather": {
+        "main": "Meteo",
+        "submenutitle": "Editor Meteo",
+        "set_weather": "Cambia Meteo",
+        "create_flash": "Crea Fulmine",
+        "cloud": "Nuvoloso",
+        "hour": "Ora",
+        "minute": "Minuto",
+        "second": "Secondo"
+    },
+    "misc": {
+        "main": "Misc",
+        "submenutitle": "Misc",
+        "black_hole_sub": {
+            "main": "Buco Nero",
+            "submenutitle": "Buchi Neri",
+            "hole": "Buco Nero",
+            "hole_coordinates_set": "Imposta Coordinate",
+            "hole_size": "Dimensioni",
+            "hole_strength": "Forza",
+            "hole_delete_toggle": "Cancella",
+            "hole_toggle": "Stato"
+        },
+        "hud_color_sub": {
+            "main": "Colori Hud",
+            "submenutitle": "Colori"
+        },
+        "xmlmap": {
+            "main": "Mappe Xml",
+            "submenutitle": "Caricatore Mappe Xml"
+        },
+        "magnatic": {
+            "main": "Magnatic Mod",
+            "submenutitle": "Magnatic",
+            "include_entities": "Includi",
+            "type": "Tipo",
+            "delay": "Ritarto Aggiornamento Coordinate",
+            "z_distance": "Z Coordinate",
+            "far_distance": "Coordinate Lontane",
+            "distance": "Distanza Per Prendere le Entità",
+            "speed": "Velocità",
+            "magnatic_toggle": "Stato"
+        },
+        "airstrike": {
+            "main": "Airstike Mod",
+            "submenutitle": "Airstike",
+            "type": "Tipo",
+            "shootat": "Spara A",
+            "shootfrom": "Spara Da",
+            "delay": "Ritardo",
+            "speed": "Velocità",
+            "toggle": "Stato",
+            "audio": "Audio"
+        },
+        "bool_superman": "Super Man Mod",
+        "bool_axe": "Leviathan Axe",
+        "bool_inf_parachute": "Paracaduti Illimitati",
+        "fuc_skip_cutscenes": "Salta Filmato"
+    }
+}
