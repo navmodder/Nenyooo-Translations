@@ -1,13 +1,17 @@
 {
     "network_p": {
+        "main": "Игроки",
         "boolspectate": "Наблюдение",
         "sub_player": "Игрок",
         "player": {
+            "boolremote_rp_money": "Дать опыт и деньги",
+            "boolinf_parachuting": "Бесконечный парашют",
+            "fuc_crash": "Абсолютный краш",
             "cloner": {
-                "clone": "Клонировать как..."
+                "clone": "Клонировать"
             },
             "shooter": {
-                "shoot": "Выстрелить..."
+                "shoot": "Выстрелить"
             },
             "create_explosions": {
                 "explosion_": "Взорвать"
@@ -16,33 +20,83 @@
                 "ceo": "Босс"
             },
             "fuc_kick": {
-                "kick": "Выгнать"
+                "kick": "Кикнуть"
             }
         },
         "sub_vehicle": "Транспорт",
         "vehicle": {
-            "fuc_boost_category": "Толкнуть транспорт",
-            "fuc_push": "Пихнуть",
-            "fuc_push_speed": "Ускорить",
-            "fuc_kick": "Выкинуть из транспорта",
-            "end_category": "Конец",
-            "rotationrandom": "Повернуть транспорт",
+            "bool_hornboost": "Ускорение сигналом",
+            "fuc_boost_category": "Подтолкнуть транспорт",
+            "fuc_push": "Толкнуть",
+            "fuc_push_speed": "Сила толчка",
+            "fuc_kick": "Выгнать из транспорта",
+            "end_category": "Конец раздела",
+            "rotationrandom": "Рандомно повернуть транспорт",
             "engine": "Двигатель",
-            "fuc_gravity": "Гравитация транспорта",
+            "fuc_invincible": "Неуязвимый транспорт",
             "fix": "Починить транспорт",
             "upgrade": "Прокачать транспорт"
         },
         "sub_weapon": "Оружие",
         "weapon": {
+            "bool_exp_ammo": "Разрывные боеприпасы",
+            "exp_ammo_Type": "Выбор разрывных боеприпасов",
+            "bool_airstrike_gun": "Пушка авиаудара",
+            "bool_airstrike_Type": "Выбор авиаудара",
             "fuc_weapons": "Оружие",
             "drop": "Бросить"
         },
         "teleport": {
-            "fuc_teleport": "Телепортировать",
-            "fuc_teleportcayo": "Телепортировать на Кайо-Перико"
+            "fuc_teleport": "Телепорт",
+            "fuc_teleportcayo": "Телепорт на Кайо-Перико"
         },
         "fuc_social": "Аккаунт",
-        "fuc_copyoutfits": "Копировать внешний вид"
+        "fuc_copyoutfits": "Копировать внешность"
+    },
+    "sub_general_network": {
+        "main": "Общее",
+        "submenutitle": "Основные настройки",
+        "sub_protections": "Защита",
+        "sub_protections_": {
+            "detect_modders": "Обнаружение моддеров",
+            "kicks": "Кик",
+            "report": "Жалобы",
+            "freeze": "Заморозка",
+            "ragdoll": "Рэгдолл",
+            "request_control": "Перехват управления",
+            "weapons_remove": "Удаление оружия",
+            "crash": "Краш",
+            "detect_Drops": "Обнаружение сброса денег",
+            "_bounty": "Награда за голову",
+            "_ceomoney": "Деньги босса",
+            "_clearwanted": "Снятие розыска",
+            "_fakedeposits": "Фейковые транзакции",
+            "_forcemissions": "Отправка на миссию",
+            "_forceteleport": "Телепорт",
+            "_transaction": "Ошибка транзакции",
+            "_givecollectibles": "Выдача коллекционных предметов",
+            "_banner": "Баннер",
+            "_mcteleport": "Телепорт в ночной клуб",
+            "_personal_dstry_veh": "Уничтожение личного транспорта",
+            "_otr": "Исчезновение с радара",
+            "_rotatecam": "Вращение камеры",
+            "_sendtolocation": "Отправка на локацию",
+            "_sendtocutscene": "Запуск катсцены",
+            "_soundspam": "Спам звуками",
+            "_spectate": "Наблюдение",
+            "_vehiclekick": "Кик из транспорта",
+            "_teleporttowarehouse": "Телепорт на склад",
+            "_activity": "Запуск активностей",
+            "bool_sms": "СМС",
+            "save": "Сохранить настройки"
+        },
+        "bool_otr": "Исчезновение с карты",
+        "bool_idlekick": "Отключение АФК",
+        "bool_reveal_otr": "Показать исчезнувших с карты игроков",
+        "bool_reveal_inv": "Показать невидимых игроков",
+        "name_spoofer": "Подделать никнейм",
+        "scid_spoofer": "Подделать идентификатор SCID",
+        "fuc_create_solo_lobby": "Одиночная сессия"
     },
     "self": {
         "main": "Персонаж",
@@ -52,24 +106,31 @@
         "boolinvisible": "Невидимость",
         "boolneverfall": "Отключить падение",
         "boolforcefield": "Силовое поле",
-        "boolsuperrun": "Супер бег",
-        "boolsuperjump": "Супер прыжок",
+        "boolsuperrun": "Супербег",
+        "boolsuperjump": "Суперпрыжок",
         "boolwalkunderwater": "Подводная ходьба",
         "boolnoclip": "Ноуклип",
         "status": "Состояние",
         "type": "Тип",
         "regen_category": "Регенерация",
-        "end_category": "Конец",
-        "toggle_props": "Случайные объекты",
-        "toggle_clean_player": "Очистить персонажа",
-        "toggle_kys": "Аннигилировать персонажа"
+        "end_category": "Конец раздела",
+        "toggle_props": "Случайные предметы",
+        "toggle_clean_player": "Очистка игрока",
+        "toggle_kys": "Самоуничтожение"
     },
     "vehicle": {
         "main": "Транспорт",
         "submenutitle": "Параметры транспорта",
         "spawncar": {
-            "main": "Спавнер трансопрта",
-            "submenutitle": "Спавн транспорта"
+            "main": "Спавнер транспорта",
+            "submenutitle": "Спавн транспорта",
+            "spawn_settings": {
+                "main": "Настройки спавна",
+                "submenutitle": "Настройки",
+                "bool_spawninsidecar": "Спавн внутри",
+                "bool_upgradedcar": "Максимальный тюнинг",
+                "bool_random_paints": "Случайный цвет"
+            }
         },
         "multiplier": {
             "main": "Множители",
@@ -77,50 +138,54 @@
             "acceleration": "Ускорение",
             "breaks": "Тормоз и задний ход"
         },
+        "xmlvehicles": {
+            "main": "Транспорт xml",
+            "submenutitle": "Транспорт xml"
+        },
         "invincible_category": "Неуязвимость",
-        "autofixer_category": "Авто-починка",
-        "horn_category": "Посигналь и ускорься",
+        "autofixer_category": "Автопочинка",
+        "horn_category": "Сигналь и ускоряйся",
         "acrobatics_category": "Акробатика",
-        "end_category": "Конец",
+        "end_category": "Конец раздела",
         "status": "Состояние",
         "type": "Тип",
-        "int_hornboostspeed": "ПиУ скорость",
-        "bool_flyingmode": "Режим полёта",
-        "bool_drift": "Дрифт-режим",
-        "bool_seatnbelt": "Пристегнуть ремни",
-        "bool_towcar": "Тянуть машину",
+        "int_hornboostspeed": "СиУ скорость",
+        "flying_category": "Режим полёта",
+        "bool_drift": "Режим дрифта",
+        "bool_seatnbelt": "Ремни безопасности",
+        "bool_towcar": "Эвакуатор",
         "bool_rainbow": "Радужная окраска",
         "fuc_dirt": "Уровень зацепа",
         "fuc_fixcar": "Починить машину",
-        "fuc_upgradecar": "Прокачать машину"
+        "fuc_upgradecar": "Протюнинговать машину"
     },
     "weapons": {
         "main": "Оружие",
         "submenutitle": "Оружие",
-        "trigger_getweapons": "Выдать всё оружие",
-        "boolinf_ammo": "Бесконечные патроны",
+        "trigger_getweapons": "Получить всё оружие",
+        "boolinf_ammo": "Бесконечные боеприпасы",
         "boolno_reload": "Отключить перезарядку",
-        "booltrigger_bot": "Сагрить ботов",
+        "booltrigger_bot": "Стриггерить ботов",
         "boolaim_bot": "Автоприцеливание",
-        "booldelete_gun": "Пушка-удалитель",
-        "boolteleport_gun": "Пушка-телепортатор",
+        "booldelete_gun": "Пушка удаления",
+        "boolteleport_gun": "Пушка телепортации",
         "boolairstike_gun": "Пушка авиаудара",
-        "booldriveit_gun": "Пушка управления машиной",
+        "booldriveit_gun": "Пушка перехвата управления",
         "boolforce_gun": "Пушка Силы",
-        "explosive_ammo_category": "Разрывные снаряды",
-        "projectile_ammo_category": "Большие снаряды"
+        "explosive_ammo_category": "Разрывные боеприпасы",
+        "projectile_ammo_category": "Большие боеприпасы"
     },
     "teleports": {
         "main": "Телепорт",
         "submenutitle": "Локации",
         "breakerCustom": "Свои",
         "outdoor": {
-            "main": "Места на карте",
-            "submenutitle": "Места на карте"
+            "main": "На карте",
+            "submenutitle": "На карте"
         },
         "indoor": {
-            "main": "Интерьеры",
-            "submenutitle": "Интерьеры"
+            "main": "В зданиях",
+            "submenutitle": "В зданиях"
         },
         "underwater": {
             "main": "Под водой",
@@ -130,6 +195,81 @@
             "main": "На небе",
             "submenutitle": "На небе"
         },
-        "show_coords": "Координаты"
+        "show_coords": "Отобразить координаты"
+    },
+    "spooner": {
+        "main": "Спувнер",
+        "submenutitle": "Спувнер",
+        "bool_spooner": "Режим спувнера",
+        "sub_peds": "Персонажи",
+        "sub_vehicle": "Транспорт",
+        "sub_object": "Объекты",
+        "database_": "Управление объектами",
+        "database": {
+            "main": "Спувнер"
+        }
+    },
+    "asiloader": {
+        "main": "Загрузчик .asi",
+        "submenutitle": "Загруженные .asi"
+    },
+    "weather": {
+        "main": "Погода",
+        "submenutitle": "Редактор погоды",
+        "set_weather": "Изменить погоду",
+        "create_flash": "Молния",
+        "cloud": "Облако",
+        "hour": "Часы",
+        "minute": "Минуты",
+        "second": "Секунды"
+    },
+    "misc": {
+        "main": "Разное",
+        "submenutitle": "Разное",
+        "black_hole_sub": {
+            "main": "Черная дыра",
+            "submenutitle": "Черные дыры",
+            "hole": "Черная дыра",
+            "hole_coordinates_set": "Установить координаты",
+            "hole_size": "Размер",
+            "hole_strength": "Сила",
+            "hole_delete_toggle": "Удалить",
+            "hole_toggle": "Состояние"
+        },
+        "hud_color_sub": {
+            "main": "Цвета интерфейса",
+            "submenutitle": "Цвета"
+        },
+        "xmlmap": {
+            "main": "Карты xml",
+            "submenutitle": "Загрузчик карт xml"
+        },
+        "magnatic": {
+            "main": "Режим магнита",
+            "submenutitle": "Магнит",
+            "include_entities": "Притягивать",
+            "type": "Тип",
+            "delay": "Задержка обновления расстояний",
+            "z_distance": "Расстояние по оси Z",
+            "far_distance": "Дальнее расстояние",
+            "distance": "Расстояние до захвачиваемых объектов",
+            "speed": "Скорость",
+            "magnatic_toggle": "Состояние"
+        },
+        "airstrike": {
+            "main": "Режим авиаудара",
+            "submenutitle": "Авиаудар",
+            "type": "Тип",
+            "shootat": "Стрелять в",
+            "shootfrom": "Стрелять из",
+            "delay": "Задержка",
+            "speed": "Скорость",
+            "toggle": "Состояние",
+            "audio": "Аудио"
+        },
+        "bool_superman": "Режим Супермена",
+        "bool_axe": "Топор Левиафана",
+        "bool_inf_parachute": "Бесконечный парашют",
+        "fuc_skip_cutscenes": "Пропуск катсцен"
     }
 }
