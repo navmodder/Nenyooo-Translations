@@ -1,8 +1,8 @@
 {
   "Animations": {
-    "thumbs_up_facial": [
-      "anim@mp_player_intcelebrationfemale@thumbs_up",
-      "thumbs_up_facial"
-    ]
+    "Pole Dance": {
+      "dict": "mini@strip_club@pole_dance@pole_dance3",
+      "anim": "pd_dance_03"
+    }
   }
 }
