@@ -1,0 +1,5 @@
+features Info.
+->main
+-network = "Peek other online players"
+->network
+-Off radar = "Player's can't see you on map"
