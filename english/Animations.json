@@ -11,6 +11,22 @@
 	"Male Idle Dance": {
       "dict": "amb@world_human_partying@male@partying_beer@idle_a",
       "anim": "idle_b"
+    },	
+	"Karate": {
+      "dict": "anim@mp_player_intcelebrationfemale@karate_chops",
+      "anim": "karate_chops"
+    },
+	"Weird Animation": {
+      "dict": "missfam1_yachtbattleonyacht01_",
+      "anim": "onyacht_fight01loop_f"
+    },
+	"Karate 2": {
+      "dict": "anim@mp_player_intcelebrationmale@karate_chops",
+      "anim": "karate_chops"
+    },	
+	"Dance": {
+      "dict": "mini@strip_club@lap_dance@ld_girl_a_accept",
+      "anim": "ld_girl_a_accept_f"
     }
   }
 }
