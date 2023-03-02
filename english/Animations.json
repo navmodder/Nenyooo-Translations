@@ -3,6 +3,14 @@
     "Pole Dance": {
       "dict": "mini@strip_club@pole_dance@pole_dance3",
       "anim": "pd_dance_03"
+    },    
+	"Female Idle Dance": {
+      "dict": "amb@world_human_partying@female@partying_beer@idle_a",
+      "anim": "idle_b"
+    },
+	"Male Idle Dance": {
+      "dict": "amb@world_human_partying@male@partying_beer@idle_a",
+      "anim": "idle_b"
     }
   }
 }
