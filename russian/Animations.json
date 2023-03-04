@@ -1,0 +1,32 @@
+{
+    "Animations": {
+        "Танец на шесте": {
+            "dict": "mini@strip_club@pole_dance@pole_dance3",
+            "anim": "pd_dance_03"
+        },
+        "Женский танец": {
+            "dict": "amb@world_human_partying@female@partying_beer@idle_a",
+            "anim": "idle_b"
+        },
+        "Мужской танец": {
+            "dict": "amb@world_human_partying@male@partying_beer@idle_a",
+            "anim": "idle_b"
+        },
+        "Каратэ": {
+            "dict": "anim@mp_player_intcelebrationfemale@karate_chops",
+            "anim": "karate_chops"
+        },
+        "Долбанутая анимация": {
+            "dict": "missfam1_yachtbattleonyacht01_",
+            "anim": "onyacht_fight01loop_f"
+        },
+        "Каратэ 2": {
+            "dict": "anim@mp_player_intcelebrationmale@karate_chops",
+            "anim": "karate_chops"
+        },
+        "Танец": {
+            "dict": "mini@strip_club@lap_dance@ld_girl_a_accept",
+            "anim": "ld_girl_a_accept_f"
+        }
+    }
+}
