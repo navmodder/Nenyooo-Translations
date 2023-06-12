@@ -1,0 +1,82 @@
+{
+    "self": {
+        "main": "Yo",
+        "submenutitle": "Opciones Propias",
+	"boolinvincible": "Inmortal",
+	"boolwanted": "Nunca Buscado",
+	"boolinvisible": "Invisible",
+	"boolneverfall": "Nunca caerse",
+	"boolforcefield": "Campo de fuerza",
+	"boolsuperrun": "Super velocidad",
+	"boolsuperjump": "Súper salto",
+	"boolwalkunderwater": "Caminar bajo el agua",
+	"boolnoclip": "Noclip"
+    },
+    "vehicle": {
+        "main": "Vehículo",
+		"submenutitle": "Opciones de vehículos",
+		 "spawncar": {
+			 "main": "Aparecer vehículos",
+			"submenutitle": "Aparecer vehículos"
+		 },	
+		 "multiplier": {
+			 "main": "Multiplicador",
+			"submenutitle": "Multiplicador",		
+			"acceleration": "Aceleración",
+			"breaks": "Marcha atrás y frenos"
+		 },
+		 "invincible_catagory": "Invencibilidad",
+		 "autofixer_catagory": "Auto Reparación",		
+		 "horn_catagory": "Impulsar con bocina",
+		 "acrobatics_catagory": "Acrobacia",		
+		 "end_catagory": "Fin",
+		 "status": "Estado",
+		 "type": "Tipo",
+		 "int_hornboostspeed": "Velocidad",
+		 "bool_flyingmode": "Modo avión",
+		 "bool_drift": "Modo Drift",	
+		 "bool_seatnbelt": "Cinturón de seguridad",	
+		 "bool_towcar": "Auto Grúa",	
+		 "bool_rainbow": "Coche arco iris",	
+		 "fuc_dirt": "Nivel de suciedad",	
+		 "fuc_fixcar": "Arreglar el coche",		
+		 "fuc_upgradecar": "Mejorar el coche"
+    },
+	"weapons": {
+        "main": "Weapons",
+		"submenutitle": "Armas",
+		"trigger_getweapons": "Conseguir todas las armas",
+		"boolinf_ammo": "Munición infinita",
+		"boolno_reload": "Sin recarga",
+		"booltrigger_bot": "Trigger Bot",
+		"boolaim_bot": "Aimbot",
+		"booldelete_gun": "Pistola de borrado",
+		"boolteleport_gun": "Pistola teletransportadora",
+		"boolairstike_gun": "Pistola ataque aéreo",
+		"booldriveit_gun": "Pistola de conducir",
+		"boolforce_gun": "Pistola de fuerza",
+		"explosive_ammo_catagory": "Munición explosiva",
+		"projectile_ammo_catagory": "Pistola de proyectiles"
+    },
+	"teleports": {
+        "main": "Teleport",
+		"submenutitle": "Teletransportes",
+		"breakerCustom": "Personalizado",
+		"outdoor": {
+        "main": "Outdoor",
+		"submenutitle": "En el exterior"
+		},
+    	"indoor": {
+        "main": "Indoor",
+		"submenutitle": "Interior"
+		},
+    	"underwater": {
+        "main": "Underwater",
+		"submenutitle": "Bajo el agua"
+		},
+    	"sky": {
+        "main": "Sky",
+		"submenutitle": "Cielo"
+		}
+    }
+}

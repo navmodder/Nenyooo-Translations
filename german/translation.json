@@ -1,14 +1,268 @@
-{
+{ 	"network_p": {
+       "main": "Spieler",
+	   "boolspectate": "Zuschauen",
+	   "sub_player": "Spieler",
+	   "player": {
+		   "boolremote_rp_money": "Gib Rp & Geld",
+		   "boolinf_parachuting": "Unendlicher Fallschirm",
+		   "cloner": {
+			   "clone": "Klonen als"
+		   },
+		   "shooter":{
+			   "shoot": "Schießen als"
+		   },	
+		   "create_explosions":{
+			   "explosion_": "Erstelle eine Explosion"
+		   },
+		   "fuc_ceo":{
+			   "ceo": "Ceo"
+		   },	 
+		   "fuc_kick":{
+			   "kick": "Rauswerfen"
+		   }
+	   },
+	   "sub_vehicle": "Vehicle",
+	   	   "vehicle": {
+			   "bool_hornboost": "Hupen für Boost",
+			   "fuc_boost_category": "Drücke Fahrzeug",
+			   "fuc_push": "Push",
+			   "fuc_push_speed": "Geschwindigkeit",
+			   "fuc_kick": "Aus dem Fahrzeug werfen",
+			   "end_category": "Ende",
+			   "rotationrandom": "Fahrezug zufällig drehen",
+			   "engine": "Motor",
+			    "fuc_invincible": "Fahrzeug unbesiegbar",
+			   "fix": "Repariere Fahrzeug",
+			   "upgrade": "Verbessere Fahrzeug"
+		   },
+	   "sub_weapon": "Waffe",	
+		"weapon": {
+		"bool_exp_ammo": "Explosive Munition",
+		"exp_ammo_Type": "Explosive Auswahl",
+		"bool_airstrike_gun": "Luftanschlag Waffe",
+		"bool_airstrike_Type": "Art des Luftanschlages",
+		"fuc_weapons": "Waffe",
+		"drop": "Fallen lassen"
+		},
+		"teleport" : {
+			"fuc_teleport": "Teleportieren",
+			"fuc_teleportcayo": "Teleportiere nach Cayo" 
+		},
+	   "fuc_social": "Sozial", 
+	   "fuc_copyoutfits": "Kopiere Outfits"
+	},
+	 "sub_general_network": {
+		 "main": "General",
+		 "submenutitle": "Generale Optionen",
+		 "sub_protections": "Schutz",
+		 "sub_protections_" :{
+			 "detect_modders": "Erkenne Modder",
+			 "kicks": "Rauswerfen",
+			 "report": "Meldungen",
+			 "freeze": "Einfrieren",
+			 "ragdoll": "Ragdoll",
+			 "request_control": "Request Control",
+			 "weapons_remove": "Entferne Waffen",
+			 "crash": "Crash",
+			 "detect_Drops": "Erkenne Money Drops",
+			 "_bounty": "Bounty",
+			 "_ceomoney": "Ceo Geld",
+			 "_clearwanted": "Entferne Fahndung",
+			 "_fakedeposits": "Gefälschte Deposits",
+			 "_forcemissions": "Erzwinge Mission",
+			 "_forceteleport": "Erzwinge Teleport",
+			 "_transaction": "Transaktionsfehler",
+			 "_givecollectibles": "Gib Sammelstücke",
+			 "_banner": "Banner",
+			 "_mcteleport": "Mc Teleport", 
+			 "_personal_dstry_veh": "Persönliches Fahrzeug zerstört",
+			 "_otr": "Off Radar",
+			 "_rotatecam": "Rotiere Kamera",
+			 "_sendtolocation": "Sende Standort",
+			 "_sendtocutscene": "Sende Zwischensequenz",
+			 "_soundspam": "Sound Spam",
+			 "_spectate": "Zuschauen",
+			 "_vehiclekick": "Vehicle Kick",
+			 "_teleporttowarehouse": "Teleport Warehouse",
+			 "_activity": "Starte Aktivität",
+			 "bool_sms": "SMS",	 
+			 "save": "Einstellungen speichern"		 
+		 },
+		 "bool_otr": "Off Radar",
+		 "bool_idlekick": "Kein Inaktivitätskick",
+		 "bool_reveal_otr": "Zeige Off Radar Spieler",
+		 "bool_reveal_inv": "Zeige Unsichtbare Spieler",
+		 "name_spoofer":"Spoof Name",
+		 "scid_spoofer":"Spoof Scid",
+		 "fuc_create_solo_lobby":"Solo Lobby"
+	 },
     "self": {
-    "main": "Selbst",
-    "submenutitle": "Charakter Optionen",
-	"boolinvincible": "unbesiegbar",
-	"boolwanted": "Keine Sterne",
-	"boolinvisible": "Unsichbar",
-	"boolneverfall": "Niemals Fallen",
-	"boolforcefield": "Kraftfeld"
+        "main": "Selbst",
+        "submenutitle": "Selbst Optionen",
+	"boolinvincible": "Unsterblich",
+	"boolwanted": "Nie Gesucht",
+	"boolinvisible": "Unsichtbar",
+	"boolneverfall": "Kein Ragdoll",
+	"boolforcefield": "Kraftfeld",
+	"boolsuperrun": "Super Rennen",
+	"boolsuperjump": "Super Springen",
+	"boolwalkunderwater": "Unterwasser Laufen",
+	"boolnoclip": "No Clip",
+	"status": "Status",
+	"type": "Type",	
+	"regen_category": "Regeneration",	
+	"end_category": "Ende",
+	"toggle_props": "Zufällige Props",	
+	"toggle_clean_player": "Saubere Spieler",	
+	"toggle_kys": "Töte dich Selbst"
     },
     "vehicle": {
-        "main": "Fahrzeug"
+        "main": "Fahrzeug",
+		"submenutitle": "Fahrzeugoptionen",
+		 "spawncar": {
+			 "main": "Fahrzeugspawner",
+			"submenutitle": "Spawne Fahrzeug",
+			"spawn_settings": {
+			 "main": "Spawneinstellungen",
+			"submenutitle": "Einstellungen",		
+			"bool_spawninsidecar": "Spawn Inside",
+			"bool_upgradedcar": "Voll verbessert",
+			"bool_random_paints": "Zufällige Farbe"
+		 }
+		 },	
+		 "multiplier": {
+			 "main": "Multiplikator",
+			"submenutitle": "Multiplikator",		
+			"acceleration": "Beschleunigung",
+			"breaks": "Rückwärts und Bremse"
+		 },		
+		 "invincible_category": "Unsterblich",
+		 "autofixer_category": "Auto Fixer",		
+		 "horn_category": "Hupen & Boost",
+		 "acrobatics_category": "Akrobatik",		
+		 "end_category": "Ende",
+		 "status": "Status",
+		 "type": "Type",
+		 "int_hornboostspeed":"Geschwindigkeit",
+		 "flying_category": "Fliegenmodus",
+		 "bool_drift": "Driftmodus",	
+		 "bool_seatnbelt": "Angeschnallt",	
+		 "bool_towcar": "Auto Abschleppen",	
+		 "bool_rainbow": "Regenbogenauto",	
+		 "fuc_dirt": "Dirt Level",	
+		 "fuc_fixcar": "Repariere Autp",		
+		 "fuc_upgradecar": "Verbesere Auto"
+    },
+	"weapons": {
+        "main": "Waffen",
+		"submenutitle": "Waffen",
+		"trigger_getweapons": "Habe Alle Waffen",
+		"boolinf_ammo": "Unendlich Munition",
+		"boolno_reload": "Kein Nachladen",
+		"booltrigger_bot":"Trigger Bot",
+		"boolaim_bot":"Aimbot",
+		"booldelete_gun":"Delete Waffe",
+		"boolteleport_gun":"Teleport Waffe",
+		"boolairstike_gun":"Airstike Waffe",
+		"booldriveit_gun":"Drive It Waffe",
+		"boolforce_gun":"Force Waffe",
+		"explosive_ammo_category":"Explosive Munition",
+		"projectile_ammo_category":"Projektilwaffe"
+    },
+	"teleports": {
+        "main": "Teleport",
+		"submenutitle": "Teleports",
+		"breakerCustom": "Benutzerdefiniert",
+		"outdoor": {
+        "main": "Outdoor",
+		"submenutitle": "Draußen"
+		},
+    	"indoor": {
+        "main": "Drinne",
+		"submenutitle": "Drinne"
+		},
+    	"underwater": {
+        "main": "Unterwasser",
+		"submenutitle": "Unterwasser"
+		},
+    	"sky": {
+        "main": "Himmel",
+		"submenutitle": "Himmel"
+		},
+		"show_coords": "Koordinaten"
+    },
+	"spooner" : {
+		"main": "Spooner",
+		"submenutitle": "Spooner",
+		"bool_spooner": "Spooner Modus",
+		"sub_peds" : "Personen",
+		"sub_vehicle": "Fahrzeuge",
+		"sub_object": "Objekte",
+		"database_": "Verwalte Entitäten",
+		"database" : {
+			"main": "Spooner"
+		}
+	},
+	"asiloader": {
+        "main": "Asi Loader",
+		"submenutitle": "Loaded .asi"
+
+    },
+	"weather": {
+        "main": "Weather",
+		"submenutitle": "Wetter Editor",
+		"set_weather": "Ändere Wetter",
+		"create_flash": "Kreire Blitz",
+		"cloud": "Wolke",
+		"hour": "Stunde",
+		"minute": "Minute",
+		"second": "Sekunde"
+    },
+	"misc": {
+        "main": "Misc",
+		"submenutitle": "Misc",
+				"black_hole_sub" : {
+				"main": "Schwarzes Loch",
+				"submenutitle": "Schwarze Löcher",
+				 "hole" : "Schwarzes Loch", 
+				 "hole_coordinates_set" : "Setze Punkt",
+				 "hole_size": "Größe",
+				 "hole_strength": "Stärke",
+				 "hole_toggle" : "Status"
+				},
+				"hud_color_sub" : {
+				"main": "Hud Farben",
+				"submenutitle": "Farben"
+				 
+				},		
+				"magnatic" : {
+				"main": "Magnetisch",
+				"submenutitle": "Magnetisch",
+				"include_entities": "Include",
+				"type": "Typ",
+				"delay": "Delay Updating Coord",
+				"z_distance": "Z Coord",
+				"far_distance": "Far Coord",
+				"distance": "Distanz To Grab Entites",
+				"speed": "Geschwindigkeit",
+				"magnatic_toggle" : "Status"				 
+				},		
+				"airstrike" : {
+				"main": "Luftanschlag Mod",
+				"submenutitle": "Luftanschlag",
+				"type": "Type",
+				"shootat": "Schieße auf",
+				"shootfrom": "Schieße von",
+				"delay": "Verzögerung",
+				"speed": "Geschwindigkeit",
+				"toggle" : "Status",
+				"audio" : "Ton"				 
+				},
+		"bool_superman": "Super Man Mod",
+		"bool_axe": "Leviathan Axe",
+		"bool_inf_parachute": "Unlimited Parachuting",
+		"fuc_skip_cutscenes": "Skip Zwischensequenz"
     }
+	
+
 }

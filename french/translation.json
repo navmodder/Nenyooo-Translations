@@ -1,14 +1,312 @@
 {
+    "asiloader": {
+        "main": "Asi Loader",
+        "submenutitle": ".asi Chargés"
+    },
+    "misc": {
+        "airstrike": {
+            "audio": "Audio",
+            "delay": "Délais",
+            "main": "Mod Frappe Aérienne",
+            "shootat": "Tirer sur",
+            "shootfrom": "Tirer de",
+            "speed": "Vitesse",
+            "submenutitle": "Frappe Aérienne",
+            "toggle": "Status",
+            "type": "Type"
+        },
+        "black_hole_sub": {
+            "hole": "Trou Noir",
+            "hole_coordinates_set": "Définir les coordonnées",
+            "hole_delete_toggle": "Supprimer",
+            "hole_size": "Taille",
+            "hole_strength": "Force",
+            "hole_toggle": "Status",
+            "main": "Trou Noir",
+            "submenutitle": "Trous Noir"
+        },
+        "bool_axe": "Hache Léviathan",
+        "bool_inf_parachute": "Parachutisme illimité",
+        "bool_superman": "Mod Super Man",
+        "fuc_skip_cutscenes": "Passer la cinématique",
+        "hud_color_sub": {
+            "main": "Couleurs Hud",
+            "submenutitle": "Couleurs"
+        },
+        "magnatic": {
+            "delay": "Délai de mise à jour Coord",
+            "distance": "Distance pour saisir les entités",
+            "far_distance": "Coord lointaine",
+            "include_entities": "Inclure",
+            "magnatic_toggle": "Status",
+            "main": "Mod Magnétique",
+            "speed": "Vitesse",
+            "submenutitle": "Magnétique",
+            "type": "Type",
+            "z_distance": "Z Coord"
+        },
+        "main": "Divers",
+        "submenutitle": "Divers",
+        "xmlmap": {
+            "main": "Cartes Xml",
+            "submenutitle": "Chargeur de carte Xml"
+        }
+    },
+    "network_p": {
+        "boolspectate": "Spectateur",
+        "fuc_copyoutfits": "Copier les tenues",
+        "fuc_social": "Social",
+        "main": "Joueurs",
+        "player": {
+            "boolinf_parachuting": "Parachutisme illimité",
+            "boolmakeaday": "Effet Journée",
+            "boolremote_rp_money": "Donner Rp & Argent",
+            "boolmagneto": "Magnéto",
+            "cloner": {
+                "clone": "Cloner en tant que"
+            },
+            "create_explosions": {
+                "explosion_": "Créer une explosion"
+            },
+            "fuc_ceo": {
+                "ceo": "Pdg"
+            },
+            "fuc_crash": "Crash ultime",
+            "fuc_kick": {
+                "kick": "Expulser"
+            },
+            "shooter": {
+                "shoot": "Tirez sur"
+            }
+        },
+        "sub_player": "Joueur",
+        "sub_vehicle": "Véhicule",
+        "sub_weapon": "Arme",
+        "teleport": {
+            "fuc_teleport": "Téléportation",
+            "fuc_teleportcayo": "Téléportation à Cayo"
+        },
+        "vehicle": {
+            "bool_hornboost": "Donner Maintenez le klaxon Boost",
+            "end_category": "Fin",
+            "engine": "Moteur",
+            "fix": "Réparer véhicule",
+            "fuc_boost_category": "Pousser véhicule",
+            "fuc_invincible": "Véhicule invincible",
+            "fuc_kick": "Sortir du véhicule",
+            "fuc_push": "Pousser",
+            "fuc_push_speed": "Vitesse",
+            "rotationrandom": "Faire pivoter véhicule au hasard",
+            "upgrade": "Améliorer véhicule"
+        },
+        "weapon": {
+            "bool_airstrike_Type": "Type frappe aérienne",
+            "bool_airstrike_gun": "Pistolet frappe aérienne",
+            "bool_exp_ammo": "Munitions explosives",
+            "drop": "Donner",
+            "exp_ammo_Type": "Sélection explosive",
+            "fuc_weapons": "Armes"
+        }
+    },
+    "recovery": {
+        "main": "Récupération (utilisation à vos risques et périls)",
+        "nightclub_trade": "Nightclub Valeur d'échange",
+        "submenutitle": "À utiliser à vos risques et périls"
+    },
     "self": {
-    "main": "Selbst",
-    "submenutitle": "Charakter Optionen",
-	"boolinvincible": "unbesiegbar",
-	"boolwanted": "Keine Sterne",
-	"boolinvisible": "Unsichbar",
-	"boolneverfall": "Niemals Fallen",
-	"boolforcefield": "Kraftfeld"
+        "boolforcefield": "Champ de force",
+        "boolinvincible": "Invincible",
+        "boolinvisible": "Invisible",
+        "boolneverfall": "Jamais tomber",
+        "boolnoclip": "No Clip",
+        "boolsuperjump": "Super Saut",
+        "boolsuperrun": "Super Course",
+        "boolwalkunderwater": "Marcher sous l'eau",
+        "boolwanted": "Jamais Recherché",
+        "end_category": "Fin",
+        "fuc_alpha": "Changer Alpha",
+        "main": "Soi",
+        "outfit": {
+            "breaker_": "Tenues Enregistrées",
+            "editor": {
+                "applymodel": "Appliquer tenues du modèle W",
+                "color": "Couleurs",
+                "edit": "Changer",
+                "main": "Éditeur de Tenue",
+                "submenutitle": "Editeur",
+                "type": "Variantes"
+            },
+            "fuc_save": "Enregistrer Tenue",
+            "main": "Tenue",
+            "submenutitle": "Tenue"
+        },
+        "regen_category": "Régénération",
+        "status": "Status",
+        "submenutitle": "Options personnelles",
+        "toggle_clean_player": "Nettoyer Joueur",
+        "toggle_kys": "Suicide",
+        "toggle_props": "Accessoires Aléatoires",
+        "type": "Type"
+    },
+    "spooner": {
+        "bool_spooner": "Mode Fantome",
+        "database": {
+            "main": "Fantome"
+        },
+        "database_": "Gérer Entités",
+        "main": "Fantome",
+        "sub_object": "Objets",
+        "sub_peds": "Pnj",
+        "sub_vehicle": "Véhicules",
+        "submenutitle": "Fantome"
+    },
+    "sub_general_network": {
+        "bool_idlekick": "Anti Inactif Expulsion",
+        "bool_otr": "Hors Radar",
+        "bool_reveal_inv": "Révéler Joueurs Invisibles",
+        "bool_reveal_otr": "Révéler Joueurs Hors Radar",
+        "fuc_create_solo_lobby": "Lobby solo",
+        "main": "Général",
+        "name_spoofer": "Faux Nom",
+        "scid_spoofer": "Faux Scid",
+        "sub_protections": "Protections",
+        "sub_protections_": {
+            "auto_block_modder_events": "Bloquer Tous Evénements De Moddeurs",
+            "_activity": "Démarrer Activité",
+            "_banner": "Bannière",
+            "_bounty": "Prime",
+            "_ceomoney": "Argent du PDG",
+            "_clearwanted": "Effacer Recherche",
+            "_fakedeposits": "Faux dépôts",
+            "_forcemissions": "Mission Forcée",
+            "_forceteleport": "Téléportation Forcée",
+            "_givecollectibles": "Donner Objets Collection",
+            "_mcteleport": "Téléportation Mc",
+            "_otr": "Hors Radar",
+            "_personal_dstry_veh": "Détruire Véhicule Personnel",
+            "_rotatecam": "Rotation Caméra",
+            "_sendtocutscene": "Envoyer Cinématique",
+            "_sendtolocation": "Envoyer Emplacement",
+            "_soundspam": "Spam Sons",
+            "_spectate": "Spectateur",
+            "_teleporttowarehouse": "Téléportation Entrepôt",
+            "_transaction": "Erreur Transaction",
+            "_vehiclekick": "Expulsion Véhicule",
+            "bool_sms": "SMS",
+            "crash": "Crash",
+            "detect_Drops": "Détecter Drop d'Argent",
+            "detect_modders": "Détecter Moddeurs",
+            "freeze": "Gel",
+            "kicks": "Expulsion",
+            "ragdoll": "Poupée Chiffon",
+            "report": "Rapports",
+            "request_control": "Demande Contrôle",
+            "save": "Enregistrer Paramètres",
+            "weapons_remove": "Supprimer Armes"
+        },
+        "sub_scid_joiner": {
+            "bool_scidJoiner": "Status",
+            "main": "Rejoindre Scid",
+            "submenutitle": "Rejoindre"
+        },
+        "submenutitle": "Options Général"
+    },
+    "teleports": {
+        "breakerCustom": "Personnalisé",
+        "indoor": {
+            "main": "Intérieur",
+            "submenutitle": "Intérieur"
+        },
+        "main": "Téléportation",
+        "outdoor": {
+            "main": "Extérieur",
+            "submenutitle": "Extérieur"
+        },
+        "show_coords": "Coordonnées",
+        "sky": {
+            "main": "Ciel",
+            "submenutitle": "Ciel"
+        },
+        "submenutitle": "Téléportations",
+        "teleport_waypoint": "Téléporter vers la destination",
+        "underwater": {
+            "main": "Sous l'eau",
+            "submenutitle": "Sous l'eau"
+        }
     },
     "vehicle": {
-        "main": "Fahrzeug"
+        "acrobatics_category": "Acrobaties",
+        "autofixer_category": "Réparation Automatique",
+        "bool_drift": "Mode Drift",
+        "bool_rainbow": "Voiture Arc-en-Ciel",
+        "bool_seatnbelt": "Ceinture de Sécurité",
+        "bool_towcar": "Voiture de Remorquage",
+        "end_category": "Fin",
+        "flying_category": "Mode Vol",
+        "fuc_dirt": "Niveau de Saleté",
+        "fuc_fixcar": "Réparer Voiture",
+        "fuc_upgradecar": "Améliorer Voiture",
+        "horn_category": "Klaxon & Boost",
+        "int_hornboostspeed": "Vitesse",
+        "invincible_category": "Invincibilité",
+        "main": "Véhicule",
+        "multiplier": {
+            "acceleration": "Accélération",
+            "brakes": "Freins",
+            "main": "Multiplicateur",
+            "submenutitle": "Multiplicateur"
+        },
+        "spawncar": {
+            "main": "Générateur de Véhicules",
+            "spawn_settings": {
+                "bool_random_paints": "Peintures Aléatoires",
+                "bool_spawninsidecar": "Apparaître à l'intérieur",
+                "bool_upgradedcar": "Entièrement Amélioré",
+                "main": "Paramètres d'Apparition",
+                "submenutitle": "Paramètres"
+            },
+            "submenutitle": "Apparition des Véhicules"
+        },
+        "status": "Status",
+        "submenutitle": "Options du Véhicule",
+        "type": "Type",
+        "xmlvehicles": {
+            "main": "Véhicules XML",
+            "submenutitle": "Véhicules XML"
+        }
+    },
+    "weapons": {
+        "boolaim_bot": "Aimbot",
+        "boolairstike_gun": "Frappe Aérienne",
+        "booldelete_gun": "Suppression",
+        "booldriveit_gun": "Conduire",
+        "boolforce_gun": "Force",
+        "boolinf_ammo": "Munitions Infinies",
+        "boolno_reload": "Pas de Rechargement",
+        "boolteleport_gun": "Téléportation",
+        "booltrigger_bot": "Triggerbot",
+        "explosive_ammo_category": "Munitions Explosives",
+        "main": "Armes",
+        "projectile_ammo_category": "Projectiles",
+        "submenutitle": "Armes",
+        "trigger_getweapons": "Obtenir Toutes les Armes"
+    },
+    "weather": {
+        "cloud": "Nuage",
+        "create_flash": "Créer Éclair",
+        "hour": "Heure",
+        "main": "Météo",
+        "minute": "Minute",
+        "moon": {
+            "blue": "Bleu",
+            "green": "Vert",
+            "main": "Lune",
+            "red": "Rouge",
+            "reset": "Réinitialiser",
+            "submenutitle": "Éditeur de Lune"
+        },
+        "second": "Seconde",
+        "set_weather": "Changer la Météo",
+        "submenutitle": "Éditeur de Météo"
     }
 }

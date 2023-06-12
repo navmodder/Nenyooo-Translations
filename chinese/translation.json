@@ -1,14 +1,82 @@
 {
     "self": {
-        "main": "Self",
-        "submenutitle": "Self Options"
-	"boolinvincible": "invincible",
-	"boolwanted": "Never wanted",
-	"boolinvisible": "Invisible",
-	"boolneverfall": "Never Fall",
-	"boolforcefield": "Forcefield"
+        "main": "自己",
+        "submenutitle": "自我选择",
+	"boolinvincible": "无敌的",
+	"boolwanted": "从来不想",
+	"boolinvisible": "无形的",
+	"boolneverfall": "永不坠落",
+	"boolforcefield": "力场",
+	"boolsuperrun": "超跑",
+	"boolsuperjump": "超级跳跃",
+	"boolwalkunderwater": "水下行走",
+	"boolnoclip": "没有剪辑"
     },
     "vehicle": {
-        "main": "Vehicle"
+        "main": "车辆"
+		"submenutitle": "车辆选项",
+		 "spawncar": {
+			 "main": "载具生成器",
+			"submenutitle": "载具生成"
+		 },	
+		 "multiplier": {
+			 "main": "乘数",
+			"submenutitle": "乘数",		
+			"acceleration": "加速度",
+			"breaks": "倒车和刹车"
+		 },
+		 "invincible_catagory": "无敌",
+		 "autofixer_catagory": "汽车修理工",		
+		 "horn_catagory": "喇叭和助推器",
+		 "acrobatics_catagory": "杂技",		
+		 "end_catagory": "结尾",
+		 "status": "状态",
+		 "type": "类型",
+		 "int_hornboostspeed": "速度",
+		 "bool_flyingmode": "飞行模式",
+		 "bool_drift": "漂移模式",	
+		 "bool_seatnbelt": "安全带",	
+		 "bool_towcar": "拖车",	
+		 "bool_rainbow": "彩虹车",	
+		 "fuc_dirt": "污垢等级",	
+		 "fuc_fixcar": "修车",		
+		 "fuc_upgradecar": "升级汽车"
+  },
+    "weapons": {
+        "main": "武器",
+    	"submenutitle": "武器",
+    	"trigger_getweapons": "获得所有武器",
+    	"boolinf_ammo": "无限弹药",
+    	"boolno_reload": "没有重装",
+    	"booltrigger_bot": "触发机器人",
+    	"boolaim_bot": "Aimbot",
+    	"booldelete_gun": "删除枪支",
+    	"boolteleport_gun": "传送枪",
+    	"boolairstike_gun": "空袭枪",
+	"booldriveit_gun": "驾驶它的枪",
+	"boolforce_gun": "原力枪",
+    	"explosive_ammo_catagory": "爆炸弹药",
+    	"projectile_ammo_catagory": "弹射枪"
+    },
+    "teleports": {
+                "main": "Teleport",
+		"submenutitle": "传送",
+		"breakerCustom": "风俗",
+	"outdoor": {
+                "main": "Outdoor",
+		"submenutitle": "户外"
+		},
+    	"indoor": {
+                "main": "Indoor",
+		"submenutitle": "室内的"
+		},
+    	"underwater": {
+                "main": "Underwater",
+		"submenutitle": "水下"
+		},
+    	"sky": {
+                "main": "Sky",
+		"submenutitle": "天空"
+		}
     }
 }

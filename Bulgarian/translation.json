@@ -1,0 +1,82 @@
+{
+    "self": {
+        "main": "Самозасягащи",
+        "submenutitle": "Самозасягащи",
+	"boolinvincible": "Неуязвимост",
+	"boolwanted": "Игнориран от полиция",
+	"boolinvisible": "Невидим",
+	"boolneverfall": "Неповалим",
+	"boolforcefield": "Силово поле",
+	"boolsuperrun": "Супер бягане",
+	"boolsuperjump": "Супер скок",
+	"boolwalkunderwater": "Ходене под вода",
+	"boolnoclip": "ноуклип"
+    },
+    "vehicle": {
+        "main": "Превозни средства",
+		"submenutitle": "Опции на превозни средства",
+		 "spawncar": {
+			 "main": "Спаунер на превозни средства",
+			"submenutitle": "Спаун на превозни средства"
+		 },	
+		 "multiplier": {
+			 "main": "Умножител",
+			"submenutitle": "Умножител",		
+			"acceleration": "Ускорение",
+			"breaks": "Задна скорост и спирачки"
+		 },
+		 "invincible_catagory": "Неунищожимост",
+		 "autofixer_catagory": "Автоматична поправка",		
+		 "horn_catagory": "Клаксон и бууст",
+		 "acrobatics_catagory": "Акробатика",		
+		 "end_catagory": "Край",
+		 "status": "Статус",
+		 "type": "Тип",
+		 "int_hornboostspeed": "Скорост",
+		 "bool_flyingmode": "Летене",
+		 "bool_drift": "Дрифт",	
+		 "bool_seatnbelt": "Колан",	
+		 "bool_towcar": "Тегли кола",	
+		 "bool_rainbow": "Цветове на дъгата",	
+		 "fuc_dirt": "Ниво на мръсотия",	
+		 "fuc_fixcar": "Поправи кола",		
+		 "fuc_upgradecar": "Подобри кола"
+    },
+	"weapons": {
+        "main": "Оръжия",
+		"submenutitle": "Оръжия",
+		"trigger_getweapons": "Вземи всички оръжия",
+		"boolinf_ammo": "Безкрайни патрони",
+		"boolno_reload": "Без презареждане",
+		"booltrigger_bot": "Тригър бот",
+		"boolaim_bot": "Ейм-бот",
+		"booldelete_gun": "Изтрий оръжие",
+		"boolteleport_gun": "Телепортиращо оръжие",
+		"boolairstike_gun": "Въздушно ударно оръжие",
+		"booldriveit_gun": "Телепортиране в застреляна кола",
+		"boolforce_gun": "Силово оръжие",
+		"explosive_ammo_catagory": "Експлозивни изтрели",
+		"projectile_ammo_catagory": "Снарядни изтрели"
+    },
+	"teleports": {
+        "main": "Телепорт",
+		"submenutitle": "Телепорти",
+		"breakerCustom": "Персонализирани",
+		"outdoor": {
+        "main": "На открито",
+		"submenutitle": "На открито"
+		},
+    	"indoor": {
+        "main": "На закрито",
+		"submenutitle": "На закрито"
+		},
+    	"underwater": {
+        "main": "Подводни",
+		"submenutitle": "Подводни"
+		},
+    	"sky": {
+        "main": "Небесни",
+		"submenutitle": "Небесни"
+		}
+    }
+}
